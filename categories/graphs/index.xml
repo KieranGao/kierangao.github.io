@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Graphs on OxyTheCrack</title>
-        <link>http://localhost:1313/categories/graphs/</link>
+        <link>https://kierangao.github.io/categories/graphs/</link>
         <description>Recent content in Graphs on OxyTheCrack</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Gao &#34;KieRaN&#34; Ziyuan</copyright>
-        <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/graphs/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://kierangao.github.io/categories/graphs/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Templates Collection</title>
-        <link>http://localhost:1313/p/templates-collection/</link>
+        <link>https://kierangao.github.io/p/templates-collection/</link>
         <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/templates-collection/</guid>
+        <guid>https://kierangao.github.io/p/templates-collection/</guid>
         <description>&lt;hr&gt;
 $$
 -=Templates-Collection=- \\
@@ -23404,10 +23404,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Make The Team</title>
-        <link>http://localhost:1313/p/make-the-team/</link>
+        <link>https://kierangao.github.io/p/make-the-team/</link>
         <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/make-the-team/</guid>
+        <guid>https://kierangao.github.io/p/make-the-team/</guid>
         <description>&lt;h1 id=&#34;make-the-team&#34;&gt;Make the Team
 &lt;/h1&gt;&lt;p&gt;&lt;strong&gt;filename:&lt;/strong&gt; &lt;code&gt;maketeam&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Difficulty Level:&lt;/strong&gt; Medium-Hard&lt;/p&gt;
@@ -23695,10 +23695,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Poor Trip</title>
-        <link>http://localhost:1313/p/poor-trip/</link>
+        <link>https://kierangao.github.io/p/poor-trip/</link>
         <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/poor-trip/</guid>
+        <guid>https://kierangao.github.io/p/poor-trip/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;穷游中很重要的步骤是减少每晚的住宿费用。因此，想穷游的人到了北京、上海等大城市，往往就开始头疼了……&lt;/p&gt;
 &lt;p&gt;假设你作为一个穷游者，正准备从 &lt;em&gt;S&lt;/em&gt; 城出发到 &lt;em&gt;T&lt;/em&gt; 城，并且在中间经过的每个城市都停留一晚，体验城市的风土人情。但由于上面说到的因素，你自然不希望你的住宿费用太高，因此你希望规划一条路径，使得你停留的所有城市中的最贵的城市的住宿费用尽可能少。如果这样的路径不唯一，则选择路径中除到达最贵城市外总耗费时长最少的一条。&lt;/p&gt;
@@ -23841,10 +23841,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Shortest Path Graph</title>
-        <link>http://localhost:1313/p/shortest-path-graph/</link>
+        <link>https://kierangao.github.io/p/shortest-path-graph/</link>
         <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/shortest-path-graph/</guid>
+        <guid>https://kierangao.github.io/p/shortest-path-graph/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;坎格鲁斯普雷最近学了最短路有关的算法，于是他给袋鼠将军出了这样一个问题： 给定一张有 $n$ 个节点的图，图中初始没有任何边。然后给你 $m$ 条有权值的没有被指定连接的节点的（你可以任意决定它所连接的节点）无向边，你需要将这 $m$ 条无向边&lt;strong&gt;全部加进图内&lt;/strong&gt;（每条边只能被使用一次），不允许出现自环（但允许出现重边），使得 1 号节点到其他所有节点的最短路恰好为一个给定的数组 $dis$。 袋鼠将军显然并不是图论高手，他并不会这道问题，于是他求助于你。当然，袋鼠将军也不是一个贪心的人，你并不需要构造问题的解决方案，&lt;strong&gt;你只需要判断问题是否有解即可&lt;/strong&gt;。&lt;/p&gt;
 &lt;h3 id=&#34;input&#34;&gt;Input
@@ -24015,10 +24015,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Make 2-Regular Graph</title>
-        <link>http://localhost:1313/p/make-2-regular-graph/</link>
+        <link>https://kierangao.github.io/p/make-2-regular-graph/</link>
         <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/make-2-regular-graph/</guid>
+        <guid>https://kierangao.github.io/p/make-2-regular-graph/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;There is a simple undirected graph $G$ with $N$ vertices and $M$ edges. The vertices are numbered $1, 2, \ldots, N$, and the $i$-th edge is an undirected edge connecting vertices $A_i$ and $B_i$.&lt;/p&gt;
 &lt;p&gt;You can repeat the following two operations in any order and any number of times:&lt;/p&gt;
@@ -24141,10 +24141,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>SquidGraph</title>
-        <link>http://localhost:1313/p/squidgraph/</link>
+        <link>https://kierangao.github.io/p/squidgraph/</link>
         <pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/squidgraph/</guid>
+        <guid>https://kierangao.github.io/p/squidgraph/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;对于无向图 &lt;em&gt;G&lt;/em&gt;=(&lt;em&gt;V&lt;/em&gt;,&lt;em&gt;E&lt;/em&gt;)，我们将有且只有一个环的、大于 &lt;strong&gt;2&lt;/strong&gt; 个顶点的无向连通图称之为&lt;strong&gt;章鱼图&lt;/strong&gt;，因为其形状像是一个环（身体）带着若干个树（触手），故得名。&lt;/p&gt;
 &lt;p&gt;给定一个无向图，请你判断是不是只有&lt;strong&gt;一个章鱼子图&lt;/strong&gt;存在。&lt;/p&gt;
@@ -24353,10 +24353,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Great Cow Gathering G</title>
-        <link>http://localhost:1313/p/great-cow-gathering-g/</link>
+        <link>https://kierangao.github.io/p/great-cow-gathering-g/</link>
         <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/great-cow-gathering-g/</guid>
+        <guid>https://kierangao.github.io/p/great-cow-gathering-g/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;Bessie 正在计划一年一度的奶牛大集会，来自全国各地的奶牛将来参加这一次集会。当然，她会选择最方便的地点来举办这次集会。&lt;/p&gt;
 &lt;p&gt;每个奶牛居住在 $N$ 个农场中的一个，这些农场由 $N-1$ 条道路连接，并且从任意一个农场都能够到达另外一个农场。道路 $i$ 连接农场 $A_i$ 和 $B_i$，长度为 $L_i$。集会可以在 $N$ 个农场中的任意一个举行。另外，每个牛棚中居住着 $C_i$ 只奶牛。&lt;/p&gt;
@@ -24570,10 +24570,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Tree Problem</title>
-        <link>http://localhost:1313/p/tree-problem/</link>
+        <link>https://kierangao.github.io/p/tree-problem/</link>
         <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/tree-problem/</guid>
+        <guid>https://kierangao.github.io/p/tree-problem/</guid>
         <description>&lt;h3 id=&#34;problem-k-树上问题&#34;&gt;Problem K. 树上问题
 &lt;/h3&gt;&lt;p&gt;378QAQ 有一棵由 $n$ 个节点组成的无根树，节点编号从 1 到 $n$，每个节点有一个正整数点权。 378QAQ 认为一个节点是美丽节点，当且仅当该节点作为根时，对于除根节点以外的所有节点，其点权都&lt;strong&gt;不小于&lt;/strong&gt;其父亲节点的点权的 $\frac{1}{2}$。 请你计算出有多少个节点是美丽节点。&lt;/p&gt;
 &lt;h3 id=&#34;input&#34;&gt;Input
@@ -24721,10 +24721,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Sea Route</title>
-        <link>http://localhost:1313/p/sea-route/</link>
+        <link>https://kierangao.github.io/p/sea-route/</link>
         <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/sea-route/</guid>
+        <guid>https://kierangao.github.io/p/sea-route/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;染染船长，扬帆起航！&lt;/p&gt;
 &lt;p&gt;在一系列准备工作做完后，染染的船终于出发了。&lt;/p&gt;
@@ -24951,10 +24951,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Flight</title>
-        <link>http://localhost:1313/p/flight/</link>
+        <link>https://kierangao.github.io/p/flight/</link>
         <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/flight/</guid>
+        <guid>https://kierangao.github.io/p/flight/</guid>
         <description>&lt;h3 id=&#34;problem-sources&#34;&gt;Problem Sources
 &lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://icpc.qlu.edu.cn/p/P2479&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;QLUOJ-P2479&lt;/a&gt;&lt;/p&gt;
@@ -25111,10 +25111,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>封锁阳光大学</title>
-        <link>http://localhost:1313/p/%E5%B0%81%E9%94%81%E9%98%B3%E5%85%89%E5%A4%A7%E5%AD%A6/</link>
+        <link>https://kierangao.github.io/p/%E5%B0%81%E9%94%81%E9%98%B3%E5%85%89%E5%A4%A7%E5%AD%A6/</link>
         <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/%E5%B0%81%E9%94%81%E9%98%B3%E5%85%89%E5%A4%A7%E5%AD%A6/</guid>
+        <guid>https://kierangao.github.io/p/%E5%B0%81%E9%94%81%E9%98%B3%E5%85%89%E5%A4%A7%E5%AD%A6/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;曹是一只爱刷街的老曹，暑假期间，他每天都欢快地在阳光大学的校园里刷街。河蟹看到欢快的曹，感到不爽。河蟹决定封锁阳光大学，不让曹刷街。&lt;/p&gt;
 &lt;p&gt;阳光大学的校园是一张由 $n$ 个点构成的无向图，$n$ 个点之间由 $m$ 条道路连接。每只河蟹可以对一个点进行封锁，当某个点被封锁后，与这个点相连的道路就被封锁了，曹就无法在这些道路上刷街了。非常悲剧的一点是，河蟹是一种不和谐的生物，当两只河蟹封锁了相邻的两个点时，他们会发生冲突。&lt;/p&gt;
@@ -25307,10 +25307,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Flip Edge</title>
-        <link>http://localhost:1313/p/flip-edge/</link>
+        <link>https://kierangao.github.io/p/flip-edge/</link>
         <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/flip-edge/</guid>
+        <guid>https://kierangao.github.io/p/flip-edge/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;You are given a directed graph with $N$ vertices and $M$ edges. The $i$-th edge $(1 \leq i \leq M)$ is a directed edge from vertex $u _ i$ to vertex $v _ i$.&lt;/p&gt;
 &lt;p&gt;Initially, you are at vertex $1$. You want to repeat the following operations until you reach vertex $N$:&lt;/p&gt;
@@ -25543,10 +25543,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Max Food-Chains Count</title>
-        <link>http://localhost:1313/p/max-food-chains-count/</link>
+        <link>https://kierangao.github.io/p/max-food-chains-count/</link>
         <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/max-food-chains-count/</guid>
+        <guid>https://kierangao.github.io/p/max-food-chains-count/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;给你一个食物网，你要求出这个食物网中最大食物链的数量。&lt;/p&gt;
 &lt;p&gt;（这里的“最大食物链”，指的是&lt;strong&gt;生物学意义上的食物链&lt;/strong&gt;，即&lt;strong&gt;最左端是不会捕食其他生物的生产者，最右端是不会被其他生物捕食的消费者&lt;/strong&gt;。）&lt;/p&gt;
@@ -25744,10 +25744,10 @@ $$&lt;p&gt;
         </item>
         <item>
         <title>星球大战</title>
-        <link>http://localhost:1313/p/%E6%98%9F%E7%90%83%E5%A4%A7%E6%88%98/</link>
+        <link>https://kierangao.github.io/p/%E6%98%9F%E7%90%83%E5%A4%A7%E6%88%98/</link>
         <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/%E6%98%9F%E7%90%83%E5%A4%A7%E6%88%98/</guid>
+        <guid>https://kierangao.github.io/p/%E6%98%9F%E7%90%83%E5%A4%A7%E6%88%98/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;很久以前，在一个遥远的星系，一个黑暗的帝国靠着它的超级武器统治着整个星系。&lt;/p&gt;
 &lt;p&gt;某一天，凭着一个偶然的机遇，一支反抗军摧毁了帝国的超级武器，并攻下了星系中几乎所有的星球。这些星球通过特殊的以太隧道互相直接或间接地连接。&lt;/p&gt;
@@ -26041,10 +26041,10 @@ $$&lt;p&gt;
         </item>
         <item>
         <title>Bessie Come Home</title>
-        <link>http://localhost:1313/p/bessie-come-home/</link>
+        <link>https://kierangao.github.io/p/bessie-come-home/</link>
         <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/bessie-come-home/</guid>
+        <guid>https://kierangao.github.io/p/bessie-come-home/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;现在是晚餐时间，而母牛们在外面分散的牧场中。&lt;/p&gt;
 &lt;p&gt;Farmer John 按响了电铃，所以她们开始向谷仓走去。 你的工作是要指出哪只母牛会最先到达谷仓（在给出的测试数据中，总会&lt;strong&gt;有且只有&lt;/strong&gt;一只最快的母牛）。在挤奶的时候（晚餐前），每只母牛都在她自己的牧场上，一些牧场上可能没有母牛。&lt;/p&gt;
@@ -26300,10 +26300,10 @@ $$&lt;p&gt;
         </item>
         <item>
         <title>Mine Digger</title>
-        <link>http://localhost:1313/p/mine-digger/</link>
+        <link>https://kierangao.github.io/p/mine-digger/</link>
         <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/mine-digger/</guid>
+        <guid>https://kierangao.github.io/p/mine-digger/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;在一个地图上有 $N\ (N \le 20)$ 个地窖，每个地窖中埋有一定数量的地雷。同时，给出地窖之间的连接路径。当地窖及其连接的数据给出之后，某人可以从任一处开始挖地雷，然后可以沿着指出的连接往下挖（仅能选择一条路径），当无连接时挖地雷工作结束。设计一个挖地雷的方案，使某人能挖到最多的地雷。&lt;/p&gt;
 &lt;h3 id=&#34;input&#34;&gt;Input

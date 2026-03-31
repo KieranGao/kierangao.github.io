@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>STL on OxyTheCrack</title>
-        <link>http://localhost:1313/categories/stl/</link>
+        <link>https://kierangao.github.io/categories/stl/</link>
         <description>Recent content in STL on OxyTheCrack</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Gao &#34;KieRaN&#34; Ziyuan</copyright>
-        <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/stl/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://kierangao.github.io/categories/stl/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Templates Collection</title>
-        <link>http://localhost:1313/p/templates-collection/</link>
+        <link>https://kierangao.github.io/p/templates-collection/</link>
         <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/templates-collection/</guid>
+        <guid>https://kierangao.github.io/p/templates-collection/</guid>
         <description>&lt;hr&gt;
 $$
 -=Templates-Collection=- \\
@@ -23404,10 +23404,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Ex-Capoo Stack</title>
-        <link>http://localhost:1313/p/ex-capoo-stack/</link>
+        <link>https://kierangao.github.io/p/ex-capoo-stack/</link>
         <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/ex-capoo-stack/</guid>
+        <guid>https://kierangao.github.io/p/ex-capoo-stack/</guid>
         <description>&lt;p&gt;&lt;em&gt;此问题在原题上进行了加强修改(不可改变Capoo顺序)&lt;/em&gt;&lt;/p&gt;
 &lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;有 $n$ 只可爱的 Capoo 想玩叠叠乐，每只 Capoo 都有一个体力值 $a_i$ 。 为了防止在叠叠乐的过程中 Capoo 受到伤害，Capoo 们相互约定，除了在最上面的 Capoo ，每只 Capoo 的体力值要大于等于它上面的所有 Capoo 的体力值之和。 Capoo 们自然希望参与叠叠乐的 Capoo 数量最多，所以它们向你提出了一个问题，&lt;strong&gt;在不可以改变原有 Capoo 顺序的情况下&lt;/strong&gt;，参与叠叠乐的 Capoo 数量最多为多少？&lt;/p&gt;
@@ -23483,10 +23483,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Ant Gathering</title>
-        <link>http://localhost:1313/p/ant-gathering/</link>
+        <link>https://kierangao.github.io/p/ant-gathering/</link>
         <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/ant-gathering/</guid>
+        <guid>https://kierangao.github.io/p/ant-gathering/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;二维平面上有 $n$ 只蚂蚁，每只蚂蚁有一条线段作为活动范围，第 $i$ 只蚂蚁的活动范围的两个端点为 $(u_i^
 x,u_i^y), (v_i^x,v_i^y)$。现在蚂蚁们考虑在这些线段的交点处设置会议中心。为了尽可能节省经费，它们决定只在所有交点为整点的地方设置会议中心，请问需要设置多少个会议中心？&lt;/p&gt;
@@ -23623,10 +23623,10 @@ x,u_i^y), (v_i^x,v_i^y)$。现在蚂蚁们考虑在这些线段的交点处设�
         </item>
         <item>
         <title>Random Stack</title>
-        <link>http://localhost:1313/p/random-stack/</link>
+        <link>https://kierangao.github.io/p/random-stack/</link>
         <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/random-stack/</guid>
+        <guid>https://kierangao.github.io/p/random-stack/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;随机栈 Toxel 获得了一个随机的 “栈”。这个栈可被视为一个 多 重 集 S，从一个非空的随机栈 S 中取出一个 元素时，有可能从中取出任何一个元素，其中每个元素被取出的概率是相等的。取出该元素后，该元素会 从集合中删除。以{1,2,2} 为例，有 1/3 的概率取出1，使得集合变为{2,2}，有 2/3 的概率取出2，使得集 合变为{1,2}。每次取出元素的事件相互独立。 Toxel 正在对这个集合做一些操作。集合初始时为空，它总共进行了2n次操作，其中n次操作为插 入，n次操作为取出。现在，Toxel告诉了你它操作的顺序以及每次插入的数，且保证每次取出时，集合 非空。Toxel 想知道，如果把每次取出的数排成一个序列，那么这个序列递增的概率是多少？这里，递增 的严格定义是：取出数列的每一项（除最后一项）.小.于.等 .于它的后一项。 由于答案可能不是整数，为了方便计算，你只需要求出这个值对998244353取模的结果。&lt;/p&gt;
 &lt;h3 id=&#34;input&#34;&gt;Input
@@ -23764,10 +23764,10 @@ x,u_i^y), (v_i^x,v_i^y)$。现在蚂蚁们考虑在这些线段的交点处设�
         </item>
         <item>
         <title>Weight Measure</title>
-        <link>http://localhost:1313/p/weight-measure/</link>
+        <link>https://kierangao.github.io/p/weight-measure/</link>
         <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/weight-measure/</guid>
+        <guid>https://kierangao.github.io/p/weight-measure/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;你有一架天平和 $N$ 个砝码, 这 $N$ 个砝码重量依次是 $W_{1}, W_{2}, \cdots, W_{N}$ 。 请你计算一共可以称出多少种不同的重量?&lt;/p&gt;
 &lt;p&gt;注意砝码可以放在天平两边。&lt;/p&gt;
@@ -23954,10 +23954,10 @@ $$&lt;h3 id=&#34;constraints&#34;&gt;Constraints
         </item>
         <item>
         <title>Crystal Combination</title>
-        <link>http://localhost:1313/p/crystal-combination/</link>
+        <link>https://kierangao.github.io/p/crystal-combination/</link>
         <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/crystal-combination/</guid>
+        <guid>https://kierangao.github.io/p/crystal-combination/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;在一个神秘的森林里，住着一个小精灵名叫小蓝。有一天，他偶然发现了一个隐藏在树洞里的宝藏，里面装满了闪烁着美丽光芒的宝石。这些宝石都有着不同的颜色和形状，但最引人注目的是它们各自独特的 “闪亮度” 属性。每颗宝石都有一个与生俱来的特殊能力，可以发出不同强度的闪光。小蓝共找到了 $n$ 枚宝石，第 $i$ 枚宝石的 “闪亮度” 属性值为 $H_i$，小蓝将会从这 $n$ 枚宝石中选出三枚进行组合，组合之后的精美程度 $S$ 可以用以下公式来衡量：&lt;/p&gt;
 $$
@@ -24141,10 +24141,10 @@ $$&lt;p&gt;
         </item>
         <item>
         <title>变鸡器</title>
-        <link>http://localhost:1313/p/%E5%8F%98%E9%B8%A1%E5%99%A8/</link>
+        <link>https://kierangao.github.io/p/%E5%8F%98%E9%B8%A1%E5%99%A8/</link>
         <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/%E5%8F%98%E9%B8%A1%E5%99%A8/</guid>
+        <guid>https://kierangao.github.io/p/%E5%8F%98%E9%B8%A1%E5%99%A8/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;$\hspace{15pt}$在高中物理课堂上，我们都接触过了变鸭器，对此颇有兴趣的小火研制了一款可以处理字符串的变鸡器。&lt;br&gt;
 $\hspace{15pt}$变鸡器可以对字符串进行任意次数（可以是零次）的以下操作：选择字符串中任意两个&lt;strong&gt;不同&lt;/strong&gt;字符，将其同时删去，剩余字符按原顺序拼接起来。形式化地，变鸡器选择两个下标 $i, j \left(i \lt j\right)$ 满足 $s_i \neq s_j$，将这两个字符同时删去，剩余字符串拼接在一起得到$s_1s_2\cdots s_{i-1}s_{i+1}\cdots s_{j-1}s_{j+1}\cdots s_n$&lt;br&gt;
@@ -24321,10 +24321,10 @@ $\hspace{15pt}$第二行输入一个长度为 $n$、仅由大写英文字母构�
         </item>
         <item>
         <title>Minimum Covering Substrings</title>
-        <link>http://localhost:1313/p/minimum-covering-substrings/</link>
+        <link>https://kierangao.github.io/p/minimum-covering-substrings/</link>
         <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/minimum-covering-substrings/</guid>
+        <guid>https://kierangao.github.io/p/minimum-covering-substrings/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;给你一个字符串 &lt;code&gt;s&lt;/code&gt; 、一个字符串 &lt;code&gt;t&lt;/code&gt; 。返回 &lt;code&gt;s&lt;/code&gt; 中涵盖 &lt;code&gt;t&lt;/code&gt; 所有字符的最小子串。如果 &lt;code&gt;s&lt;/code&gt; 中不存在涵盖 &lt;code&gt;t&lt;/code&gt; 所有字符的子串，则返回空字符串 &lt;code&gt;&amp;quot;&amp;quot;&lt;/code&gt; 。&lt;/p&gt;
 &lt;h3 id=&#34;note&#34;&gt;Note
@@ -24466,10 +24466,10 @@ $\hspace{15pt}$第二行输入一个长度为 $n$、仅由大写英文字母构�
         </item>
         <item>
         <title>可以分开吗?</title>
-        <link>http://localhost:1313/p/%E5%8F%AF%E4%BB%A5%E5%88%86%E5%BC%80%E5%90%97/</link>
+        <link>https://kierangao.github.io/p/%E5%8F%AF%E4%BB%A5%E5%88%86%E5%BC%80%E5%90%97/</link>
         <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/%E5%8F%AF%E4%BB%A5%E5%88%86%E5%BC%80%E5%90%97/</guid>
+        <guid>https://kierangao.github.io/p/%E5%8F%AF%E4%BB%A5%E5%88%86%E5%BC%80%E5%90%97/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;$\hspace{15pt}$牛可乐有 $n \times m$ 个砖块排布成 $n$ 行 $m$ 列的矩阵，我们使用 $(i,j)$ 表示矩阵中从上往下数第 $i$ 行和从左往右数第 $j$ 列的砖块。如下左图就是一个 $6$ 行 $6$ 列的矩阵。有的砖块能被敲碎，为了便于辨认，我们使用灰色绘制它们；有的砖块不能被敲碎，我们使用蓝色斜线绘制它们。如下右图所示，第 $3$ 行第 $2$ 列的砖块 $(3,2)$ 是灰色的，能被敲碎，使用一个叉代表其被敲碎了。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://uploadfiles.nowcoder.com/images/20250106/0_1736163274008/1BFEDF4DD26313049F2DB87C243658FC&#34;
@@ -24767,10 +24767,10 @@ $\hspace{15pt}$除此之外，保证至少存在一个“蓝色极大连通块�
         </item>
         <item>
         <title>Various Kagamimochi</title>
-        <link>http://localhost:1313/p/various-kagamimochi/</link>
+        <link>https://kierangao.github.io/p/various-kagamimochi/</link>
         <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/various-kagamimochi/</guid>
+        <guid>https://kierangao.github.io/p/various-kagamimochi/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;There are $N$ mochi (rice cakes) arranged in ascending order of size. The size of the $i$-th mochi $(1 \leq i \leq N)$ is $A_i$.&lt;/p&gt;
 &lt;p&gt;Given two mochi $A$ and $B$, with sizes $a$ and $b$ respectively, you can make one kagamimochi (a stacked rice cake) by placing mochi $A$ on top of mochi $B$ if and only if $a$ is at most half of $b$.&lt;/p&gt;

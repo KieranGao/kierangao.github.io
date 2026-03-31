@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Greedy on OxyTheCrack</title>
-        <link>http://localhost:1313/categories/greedy/</link>
+        <link>https://kierangao.github.io/categories/greedy/</link>
         <description>Recent content in Greedy on OxyTheCrack</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Gao &#34;KieRaN&#34; Ziyuan</copyright>
-        <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/greedy/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://kierangao.github.io/categories/greedy/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Templates Collection</title>
-        <link>http://localhost:1313/p/templates-collection/</link>
+        <link>https://kierangao.github.io/p/templates-collection/</link>
         <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/templates-collection/</guid>
+        <guid>https://kierangao.github.io/p/templates-collection/</guid>
         <description>&lt;hr&gt;
 $$
 -=Templates-Collection=- \\
@@ -23404,10 +23404,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Ex-Capoo Stack</title>
-        <link>http://localhost:1313/p/ex-capoo-stack/</link>
+        <link>https://kierangao.github.io/p/ex-capoo-stack/</link>
         <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/ex-capoo-stack/</guid>
+        <guid>https://kierangao.github.io/p/ex-capoo-stack/</guid>
         <description>&lt;p&gt;&lt;em&gt;此问题在原题上进行了加强修改(不可改变Capoo顺序)&lt;/em&gt;&lt;/p&gt;
 &lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;有 $n$ 只可爱的 Capoo 想玩叠叠乐，每只 Capoo 都有一个体力值 $a_i$ 。 为了防止在叠叠乐的过程中 Capoo 受到伤害，Capoo 们相互约定，除了在最上面的 Capoo ，每只 Capoo 的体力值要大于等于它上面的所有 Capoo 的体力值之和。 Capoo 们自然希望参与叠叠乐的 Capoo 数量最多，所以它们向你提出了一个问题，&lt;strong&gt;在不可以改变原有 Capoo 顺序的情况下&lt;/strong&gt;，参与叠叠乐的 Capoo 数量最多为多少？&lt;/p&gt;
@@ -23483,10 +23483,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Shortest Path Graph</title>
-        <link>http://localhost:1313/p/shortest-path-graph/</link>
+        <link>https://kierangao.github.io/p/shortest-path-graph/</link>
         <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/shortest-path-graph/</guid>
+        <guid>https://kierangao.github.io/p/shortest-path-graph/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;坎格鲁斯普雷最近学了最短路有关的算法，于是他给袋鼠将军出了这样一个问题： 给定一张有 $n$ 个节点的图，图中初始没有任何边。然后给你 $m$ 条有权值的没有被指定连接的节点的（你可以任意决定它所连接的节点）无向边，你需要将这 $m$ 条无向边&lt;strong&gt;全部加进图内&lt;/strong&gt;（每条边只能被使用一次），不允许出现自环（但允许出现重边），使得 1 号节点到其他所有节点的最短路恰好为一个给定的数组 $dis$。 袋鼠将军显然并不是图论高手，他并不会这道问题，于是他求助于你。当然，袋鼠将军也不是一个贪心的人，你并不需要构造问题的解决方案，&lt;strong&gt;你只需要判断问题是否有解即可&lt;/strong&gt;。&lt;/p&gt;
 &lt;h3 id=&#34;input&#34;&gt;Input
@@ -23657,10 +23657,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Last Chance Threads of Despair</title>
-        <link>http://localhost:1313/p/last-chance-threads-of-despair/</link>
+        <link>https://kierangao.github.io/p/last-chance-threads-of-despair/</link>
         <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/last-chance-threads-of-despair/</guid>
+        <guid>https://kierangao.github.io/p/last-chance-threads-of-despair/</guid>
         <description>&lt;p&gt;Dear problem setter, I downloaded Hearthstone. Why is my Threads of Despair a three-cost card?&lt;/p&gt;
 &lt;p&gt;—Pan-fried-chicken&lt;/p&gt;
 &lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
@@ -23764,10 +23764,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Serval and Kaitenzushi Buffet</title>
-        <link>http://localhost:1313/p/serval-and-kaitenzushi-buffet/</link>
+        <link>https://kierangao.github.io/p/serval-and-kaitenzushi-buffet/</link>
         <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/serval-and-kaitenzushi-buffet/</guid>
+        <guid>https://kierangao.github.io/p/serval-and-kaitenzushi-buffet/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;Serval has just found a Kaitenzushi buffet restaurant. Kaitenzushi means that there is a conveyor belt in the restaurant, delivering plates of sushi in front of the customer, Serval.&lt;/p&gt;
 &lt;p&gt;In this restaurant, each plate contains exactly $k$ pieces of sushi and the $i$-th plate has a deliciousness $d_i$. Serval will have a meal in this restaurant for $n$ minutes, and within the $n$ minutes, he must eat up &lt;strong&gt;all&lt;/strong&gt; the pieces of sushi he took from the belt.&lt;/p&gt;
@@ -23857,10 +23857,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>WorkPlan</title>
-        <link>http://localhost:1313/p/workplan/</link>
+        <link>https://kierangao.github.io/p/workplan/</link>
         <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/workplan/</guid>
+        <guid>https://kierangao.github.io/p/workplan/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;小 K 有 &lt;em&gt;N&lt;/em&gt; 项工作等待完成，第 &lt;em&gt;i&lt;/em&gt; 项工作需要花 $t_{i}$ 单位时间，必须在 $d_{i}$ 时刻或之前完成，报酬为 $p_{i}$。假设小 K 工作时刻从 0 开始，且同一时刻只能做一项工作、工作一旦开始则不可中断或切换至其他工作，请你帮小 K 规划一下如何选择合适的工作，使小 K 可以获得最多的报酬。&lt;/p&gt;
 &lt;h3 id=&#34;input&#34;&gt;Input
@@ -23955,10 +23955,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Make it beauty</title>
-        <link>http://localhost:1313/p/make-it-beauty/</link>
+        <link>https://kierangao.github.io/p/make-it-beauty/</link>
         <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/make-it-beauty/</guid>
+        <guid>https://kierangao.github.io/p/make-it-beauty/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;You are given an array $a$ of $n$ integers. We define the $\text{beauty}$ of a number $x$ to be the number of $1$ bits in its binary representation. We define the beauty of an array to be the sum of beauties of the numbers it contains.&lt;/p&gt;
 &lt;p&gt;In one operation, you can select an index $i$ $(1 \le i \le n)$ and increase $a_i$ by $1$.&lt;/p&gt;
@@ -24085,10 +24085,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Minimum OR Path</title>
-        <link>http://localhost:1313/p/minimum-or-path/</link>
+        <link>https://kierangao.github.io/p/minimum-or-path/</link>
         <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/minimum-or-path/</guid>
+        <guid>https://kierangao.github.io/p/minimum-or-path/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;You are given a connected undirected graph with $N$ vertices and $M$ edges without self-loops, where vertices are numbered from $1$ to $N$ and edges are numbered from $1$ to $M$. Edge $i$ connects vertices $u_i$ and $v_i$ bidirectionally and has a label $w_i$.&lt;/p&gt;
 &lt;p&gt;Among the simple paths (paths that do not visit the same vertex more than once) from vertex $1$ to vertex $N$, find the minimum possible value of the bitwise $\mathrm{OR}$ of all labels on edges included in the path.&lt;/p&gt;
@@ -24244,10 +24244,10 @@ In general, the bitwise $\mathrm{OR}$ of $k$ non-negative integers $p_1, p_2, p_
         </item>
         <item>
         <title>Min Max Mex</title>
-        <link>http://localhost:1313/p/min-max-mex/</link>
+        <link>https://kierangao.github.io/p/min-max-mex/</link>
         <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/min-max-mex/</guid>
+        <guid>https://kierangao.github.io/p/min-max-mex/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;You are given an array $a$ of length $n$ and a number $k$.&lt;/p&gt;
 &lt;p&gt;A subarray is defined as a sequence of one or more consecutive elements of the array. You need to split the array $a$ into $k$ non-overlapping subarrays $b_1, b_2, \dots, b_k$ such that the union of these subarrays equals the entire array. Additionally, you need to maximize the value of $x$, which is equal to the minimum MEX$(b_i)$, for $i \in [1..k]$.&lt;/p&gt;
@@ -24361,10 +24361,10 @@ In general, the bitwise $\mathrm{OR}$ of $k$ non-negative integers $p_1, p_2, p_
         </item>
         <item>
         <title>Fast and Fat</title>
-        <link>http://localhost:1313/p/fast-and-fat/</link>
+        <link>https://kierangao.github.io/p/fast-and-fat/</link>
         <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/fast-and-fat/</guid>
+        <guid>https://kierangao.github.io/p/fast-and-fat/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;您正在参加一场团体越野比赛。您的队伍共有 $n$ 名队员，其中第 $i$ 名队员的速度为 $v_i$，体重为 $w_i$。&lt;/p&gt;
 &lt;p&gt;比赛允许每名队员独立行动，也允许一名队员背着另一名队员一起行动。当队员 $i$ 背着队员 $j$ 时，如果队员 $i$ 的体重大于等于队员 $j$，则队员 $i$ 的移动速度不会变化，仍然为 $v_i$；如果队员 $i$ 的体重小于队员 $j$，则队员 $i$ 的移动速度会减去两者的体重差值，即变为 $v_i - (w_j - w_i)$。如果队员 $i$ 的移动速度将变为负数，则队员 $i$ 无法背起队员 $j$。每名队员最多只能背负另一名队员，被背负的队员无法同时背负其他队员。&lt;/p&gt;
@@ -24520,10 +24520,10 @@ In general, the bitwise $\mathrm{OR}$ of $k$ non-negative integers $p_1, p_2, p_
         </item>
         <item>
         <title>Copy Books</title>
-        <link>http://localhost:1313/p/copy-books/</link>
+        <link>https://kierangao.github.io/p/copy-books/</link>
         <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/copy-books/</guid>
+        <guid>https://kierangao.github.io/p/copy-books/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;现在要把 $m$ 本有顺序的书分给 $k$ 个人复制（抄写），每一个人的抄写速度都一样，一本书不允许给两个（或以上）的人抄写，分给每一个人的书，必须是连续的，比如不能把第一、第三、第四本书给同一个人抄写。&lt;/p&gt;
 &lt;p&gt;现在请你设计一种方案，使得复制时间最短。复制时间为抄写页数最多的人用去的时间。&lt;/p&gt;
@@ -24722,10 +24722,10 @@ In general, the bitwise $\mathrm{OR}$ of $k$ non-negative integers $p_1, p_2, p_
         </item>
         <item>
         <title>Classic Greedy Collections</title>
-        <link>http://localhost:1313/p/classic-greedy-collections/</link>
+        <link>https://kierangao.github.io/p/classic-greedy-collections/</link>
         <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/classic-greedy-collections/</guid>
+        <guid>https://kierangao.github.io/p/classic-greedy-collections/</guid>
         <description>&lt;h3 id=&#34;problem1&#34;&gt;Problem#1
 &lt;/h3&gt;&lt;p&gt;这里有 &lt;code&gt;n&lt;/code&gt; 门不同的在线课程，按从 &lt;code&gt;1&lt;/code&gt; 到 &lt;code&gt;n&lt;/code&gt; 编号。给你一个数组 &lt;code&gt;courses&lt;/code&gt; ，其中 &lt;code&gt;courses[i] = [durationi, lastDayi]&lt;/code&gt; 表示第 &lt;code&gt;i&lt;/code&gt; 门课将会 &lt;strong&gt;持续&lt;/strong&gt; 上 &lt;code&gt;durationi&lt;/code&gt; 天课，并且必须在不晚于 &lt;code&gt;lastDayi&lt;/code&gt; 的时候完成。&lt;/p&gt;
 &lt;p&gt;你的学期从第 &lt;code&gt;1&lt;/code&gt; 天开始。且不能同时修读两门及两门以上的课程。&lt;/p&gt;
@@ -25146,10 +25146,10 @@ In general, the bitwise $\mathrm{OR}$ of $k$ non-negative integers $p_1, p_2, p_
         </item>
         <item>
         <title>Settlement of Guinea Pigs</title>
-        <link>http://localhost:1313/p/settlement-of-guinea-pigs/</link>
+        <link>https://kierangao.github.io/p/settlement-of-guinea-pigs/</link>
         <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/settlement-of-guinea-pigs/</guid>
+        <guid>https://kierangao.github.io/p/settlement-of-guinea-pigs/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;Dasha loves guinea pigs very much. In this regard, she decided to settle as many guinea pigs at home as possible and developed a plan for the next $n$ days. Every day, she will either buy a new guinea pig or call a doctor to examine all her pets.&lt;/p&gt;
 &lt;p&gt;Unfortunately, the store where she was going to buy guinea pigs does not understand them. Therefore, it cannot determine their gender. Dasha can&amp;rsquo;t do it either. The only one who can help is a doctor.&lt;/p&gt;
@@ -25256,10 +25256,10 @@ In general, the bitwise $\mathrm{OR}$ of $k$ non-negative integers $p_1, p_2, p_
         </item>
         <item>
         <title>Slimes</title>
-        <link>http://localhost:1313/p/slimes/</link>
+        <link>https://kierangao.github.io/p/slimes/</link>
         <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/slimes/</guid>
+        <guid>https://kierangao.github.io/p/slimes/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;There is a grid with $H$ horizontal rows and $W$ vertical columns. Let $(i, j)$ denote the cell at the $i$-th row $(1\leq i\leq H)$ from the top and $j$-th column $(1\leq j\leq W)$ from the left.&lt;/p&gt;
 &lt;p&gt;Initially, there is a slime with strength $S _ {i,j}$ in cell $(i,j)$, and Takahashi is the slime in the cell $(P,Q)$.&lt;/p&gt;

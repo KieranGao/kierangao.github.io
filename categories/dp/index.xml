@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>DP on OxyTheCrack</title>
-        <link>http://localhost:1313/categories/dp/</link>
+        <link>https://kierangao.github.io/categories/dp/</link>
         <description>Recent content in DP on OxyTheCrack</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Gao &#34;KieRaN&#34; Ziyuan</copyright>
-        <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/dp/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://kierangao.github.io/categories/dp/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Templates Collection</title>
-        <link>http://localhost:1313/p/templates-collection/</link>
+        <link>https://kierangao.github.io/p/templates-collection/</link>
         <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/templates-collection/</guid>
+        <guid>https://kierangao.github.io/p/templates-collection/</guid>
         <description>&lt;hr&gt;
 $$
 -=Templates-Collection=- \\
@@ -23404,10 +23404,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Poor Trip</title>
-        <link>http://localhost:1313/p/poor-trip/</link>
+        <link>https://kierangao.github.io/p/poor-trip/</link>
         <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/poor-trip/</guid>
+        <guid>https://kierangao.github.io/p/poor-trip/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;穷游中很重要的步骤是减少每晚的住宿费用。因此，想穷游的人到了北京、上海等大城市，往往就开始头疼了……&lt;/p&gt;
 &lt;p&gt;假设你作为一个穷游者，正准备从 &lt;em&gt;S&lt;/em&gt; 城出发到 &lt;em&gt;T&lt;/em&gt; 城，并且在中间经过的每个城市都停留一晚，体验城市的风土人情。但由于上面说到的因素，你自然不希望你的住宿费用太高，因此你希望规划一条路径，使得你停留的所有城市中的最贵的城市的住宿费用尽可能少。如果这样的路径不唯一，则选择路径中除到达最贵城市外总耗费时长最少的一条。&lt;/p&gt;
@@ -23550,10 +23550,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Sum Of LDS</title>
-        <link>http://localhost:1313/p/sum-of-lds/</link>
+        <link>https://kierangao.github.io/p/sum-of-lds/</link>
         <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/sum-of-lds/</guid>
+        <guid>https://kierangao.github.io/p/sum-of-lds/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;给定一个排列 $ ^{\text{∗}} $ $ p_1, \ldots, p_n $，满足对于所有 $ 1 \leq i \leq n-2 $ 都有 $ \max(p_i, p_{i+1}) &amp;gt; p_{i+2} $。&lt;/p&gt;
 &lt;p&gt;计算所有子数组 $ [p_l, p_{l+1}, \ldots, p_r] $（其中 $ 1 \leq l \leq r \leq n $）的最长递减子序列 $ ^{\text{†}} $ 长度的总和。&lt;/p&gt;
@@ -23621,10 +23621,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Another Day of Sun</title>
-        <link>http://localhost:1313/p/another-day-of-sun/</link>
+        <link>https://kierangao.github.io/p/another-day-of-sun/</link>
         <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/another-day-of-sun/</guid>
+        <guid>https://kierangao.github.io/p/another-day-of-sun/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;&amp;lsquo;Cause morning rolls around, and it&amp;rsquo;s another day of sun!&lt;/p&gt;
 &lt;p&gt;But as a sleep addict, Sean spends lots of hours sleeping, and thus, he can&amp;rsquo;t even remember which day it is when he wakes up.&lt;/p&gt;
@@ -23774,10 +23774,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>WorkPlan</title>
-        <link>http://localhost:1313/p/workplan/</link>
+        <link>https://kierangao.github.io/p/workplan/</link>
         <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/workplan/</guid>
+        <guid>https://kierangao.github.io/p/workplan/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;小 K 有 &lt;em&gt;N&lt;/em&gt; 项工作等待完成，第 &lt;em&gt;i&lt;/em&gt; 项工作需要花 $t_{i}$ 单位时间，必须在 $d_{i}$ 时刻或之前完成，报酬为 $p_{i}$。假设小 K 工作时刻从 0 开始，且同一时刻只能做一项工作、工作一旦开始则不可中断或切换至其他工作，请你帮小 K 规划一下如何选择合适的工作，使小 K 可以获得最多的报酬。&lt;/p&gt;
 &lt;h3 id=&#34;input&#34;&gt;Input
@@ -23872,10 +23872,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Great Cow Gathering G</title>
-        <link>http://localhost:1313/p/great-cow-gathering-g/</link>
+        <link>https://kierangao.github.io/p/great-cow-gathering-g/</link>
         <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/great-cow-gathering-g/</guid>
+        <guid>https://kierangao.github.io/p/great-cow-gathering-g/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;Bessie 正在计划一年一度的奶牛大集会，来自全国各地的奶牛将来参加这一次集会。当然，她会选择最方便的地点来举办这次集会。&lt;/p&gt;
 &lt;p&gt;每个奶牛居住在 $N$ 个农场中的一个，这些农场由 $N-1$ 条道路连接，并且从任意一个农场都能够到达另外一个农场。道路 $i$ 连接农场 $A_i$ 和 $B_i$，长度为 $L_i$。集会可以在 $N$ 个农场中的任意一个举行。另外，每个牛棚中居住着 $C_i$ 只奶牛。&lt;/p&gt;
@@ -24089,10 +24089,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Tree Problem</title>
-        <link>http://localhost:1313/p/tree-problem/</link>
+        <link>https://kierangao.github.io/p/tree-problem/</link>
         <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/tree-problem/</guid>
+        <guid>https://kierangao.github.io/p/tree-problem/</guid>
         <description>&lt;h3 id=&#34;problem-k-树上问题&#34;&gt;Problem K. 树上问题
 &lt;/h3&gt;&lt;p&gt;378QAQ 有一棵由 $n$ 个节点组成的无根树，节点编号从 1 到 $n$，每个节点有一个正整数点权。 378QAQ 认为一个节点是美丽节点，当且仅当该节点作为根时，对于除根节点以外的所有节点，其点权都&lt;strong&gt;不小于&lt;/strong&gt;其父亲节点的点权的 $\frac{1}{2}$。 请你计算出有多少个节点是美丽节点。&lt;/p&gt;
 &lt;h3 id=&#34;input&#34;&gt;Input
@@ -24240,10 +24240,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Diversity</title>
-        <link>http://localhost:1313/p/diversity/</link>
+        <link>https://kierangao.github.io/p/diversity/</link>
         <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/diversity/</guid>
+        <guid>https://kierangao.github.io/p/diversity/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;一家商店里有 $N$ 种商品出售。 $i$ （件）产品的价格为 $P_i$ 日元，效用值为 $U_i$ ，颜色为 $C_i$ 。&lt;/p&gt;
 &lt;p&gt;你将从这些 $N$ 产品中选择一个子集购买（可能一个都不）。所选商品的总价最多为 $X$ 日元。&lt;/p&gt;
@@ -24377,10 +24377,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>EditDistance(Levenshtein Distance)</title>
-        <link>http://localhost:1313/p/editdistancelevenshtein-distance/</link>
+        <link>https://kierangao.github.io/p/editdistancelevenshtein-distance/</link>
         <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/editdistancelevenshtein-distance/</guid>
+        <guid>https://kierangao.github.io/p/editdistancelevenshtein-distance/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;设 $A$ 和 $B$ 是两个字符串。我们要用最少的字符操作次数，将字符串 $A$ 转换为字符串 $B$。这里所说的字符操作共有三种：&lt;/p&gt;
 &lt;ol&gt;
@@ -24568,10 +24568,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Weight Measure</title>
-        <link>http://localhost:1313/p/weight-measure/</link>
+        <link>https://kierangao.github.io/p/weight-measure/</link>
         <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/weight-measure/</guid>
+        <guid>https://kierangao.github.io/p/weight-measure/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;你有一架天平和 $N$ 个砝码, 这 $N$ 个砝码重量依次是 $W_{1}, W_{2}, \cdots, W_{N}$ 。 请你计算一共可以称出多少种不同的重量?&lt;/p&gt;
 &lt;p&gt;注意砝码可以放在天平两边。&lt;/p&gt;
@@ -24758,10 +24758,10 @@ $$&lt;h3 id=&#34;constraints&#34;&gt;Constraints
         </item>
         <item>
         <title>A Order</title>
-        <link>http://localhost:1313/p/a-order/</link>
+        <link>https://kierangao.github.io/p/a-order/</link>
         <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/a-order/</guid>
+        <guid>https://kierangao.github.io/p/a-order/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;不过 uim 由于买了一些书，口袋里只剩 $M$ 元 $(M \le 10000)$。&lt;/p&gt;
 &lt;p&gt;餐馆虽低端，但是菜品种类不少，有 $N$ 种 $(N \le 100)$，第 $i$ 种卖 $a_i$ 元 $(a_i \le 1000)$。由于是很低端的餐馆，所以每种菜只有一份。&lt;/p&gt;
@@ -24855,10 +24855,10 @@ $$&lt;h3 id=&#34;constraints&#34;&gt;Constraints
         </item>
         <item>
         <title>Max Sub-Tree Sum</title>
-        <link>http://localhost:1313/p/max-sub-tree-sum/</link>
+        <link>https://kierangao.github.io/p/max-sub-tree-sum/</link>
         <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/max-sub-tree-sum/</guid>
+        <guid>https://kierangao.github.io/p/max-sub-tree-sum/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;小明对数学饱有兴趣，并且是个勤奋好学的学生，总是在课后留在教室向老师请教一些问题。一天他早晨骑车去上课，路上见到一个老伯正在修剪花花草草，顿时想到了一个有关修剪花卉的问题。于是当日课后，小明就向老师提出了这个问题：&lt;/p&gt;
 &lt;p&gt;一株奇怪的花卉，上面共连有 $N$ 朵花，共有 $N-1$ 条枝干将花儿连在一起，并且未修剪时每朵花都不是孤立的。每朵花都有一个“美丽指数”，该数越大说明这朵花越漂亮，也有“美丽指数”为负数的，说明这朵花看着都让人恶心。所谓“修剪”，意为：去掉其中的一条枝条，这样一株花就成了两株，扔掉其中一株。经过一系列“修剪“之后，还剩下最后一株花（也可能是一朵）。老师的任务就是：通过一系列“修剪”（也可以什么“修剪”都不进行），使剩下的那株（那朵）花卉上所有花朵的“美丽指数”之和最大。&lt;/p&gt;
@@ -25018,10 +25018,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Max Food-Chains Count</title>
-        <link>http://localhost:1313/p/max-food-chains-count/</link>
+        <link>https://kierangao.github.io/p/max-food-chains-count/</link>
         <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/max-food-chains-count/</guid>
+        <guid>https://kierangao.github.io/p/max-food-chains-count/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;给你一个食物网，你要求出这个食物网中最大食物链的数量。&lt;/p&gt;
 &lt;p&gt;（这里的“最大食物链”，指的是&lt;strong&gt;生物学意义上的食物链&lt;/strong&gt;，即&lt;strong&gt;最左端是不会捕食其他生物的生产者，最右端是不会被其他生物捕食的消费者&lt;/strong&gt;。）&lt;/p&gt;
@@ -25219,10 +25219,10 @@ $$&lt;p&gt;
         </item>
         <item>
         <title>King Bin&#39;s Budget Scheme</title>
-        <link>http://localhost:1313/p/king-bins-budget-scheme/</link>
+        <link>https://kierangao.github.io/p/king-bins-budget-scheme/</link>
         <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/king-bins-budget-scheme/</guid>
+        <guid>https://kierangao.github.io/p/king-bins-budget-scheme/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;金明今天很开心，家里购置的新房就要领钥匙了，新房里有一间金明自己专用的很宽敞的房间。更让他高兴的是，妈妈昨天对他说：“你的房间需要购买哪些物品，怎么布置，你说了算，只要不超过 $n$ 元钱就行”。今天一早，金明就开始做预算了，他把想买的物品分为两类：主件与附件，附件是从属于某个主件的，下表就是一些主件与附件的例子：&lt;/p&gt;
 &lt;table&gt;
@@ -25548,10 +25548,10 @@ $$v_{j_1} \times w_{j_1}+v_{j_2} \times w_{j_2}+ \dots +v_{j_k} \times w_{j_k}$$
         </item>
         <item>
         <title>Longest Bracket Matching</title>
-        <link>http://localhost:1313/p/longest-bracket-matching/</link>
+        <link>https://kierangao.github.io/p/longest-bracket-matching/</link>
         <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/longest-bracket-matching/</guid>
+        <guid>https://kierangao.github.io/p/longest-bracket-matching/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;对一个由(,),[,]括号组成的字符串，求出其中最长的括号匹配子串。具体来说，满足如下条件的字符串成为括号匹配的字符串：&lt;/p&gt;
 &lt;p&gt;1.(),[]是括号匹配的字符串。&lt;/p&gt;
@@ -25741,10 +25741,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Fish Catcher</title>
-        <link>http://localhost:1313/p/fish-catcher/</link>
+        <link>https://kierangao.github.io/p/fish-catcher/</link>
         <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/fish-catcher/</guid>
+        <guid>https://kierangao.github.io/p/fish-catcher/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;回到家中的猫猫把三桶鱼全部转移到了她那长方形大池子中，然后开始思考：到底要以何种方法吃鱼呢（猫猫就是这么可爱，吃鱼也要想好吃法 ^_*）。她发现，把大池子视为 $01$ 矩阵（$0$ 表示对应位置无鱼，$1$ 表示对应位置有鱼）有助于决定吃鱼策略。&lt;/p&gt;
 &lt;p&gt;在代表池子的 $01$ 矩阵中，有很多的正方形子矩阵，如果某个正方形子矩阵的某条对角线上都有鱼，且此&lt;strong&gt;正方形子矩阵的其他地方无鱼&lt;/strong&gt;，猫猫就可以从这个正方形子矩阵“对角线的一端”下口，只一吸，就能把对角线上的那一队鲜鱼吸入口中。&lt;/p&gt;
@@ -25966,10 +25966,10 @@ $$&lt;p&gt;
         </item>
         <item>
         <title>Knapsack 2</title>
-        <link>http://localhost:1313/p/knapsack-2/</link>
+        <link>https://kierangao.github.io/p/knapsack-2/</link>
         <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/knapsack-2/</guid>
+        <guid>https://kierangao.github.io/p/knapsack-2/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement：
 &lt;/h3&gt;&lt;p&gt;有 $N$ 个物品，编号为 $1, 2,\ldots,N$。对于每个 $i$（$1\leq i\leq N$），物品 $i$ 的重量为 $w_i$，价值为 $v_i$。 - 太郎决定选择一些物品，并将它们放入背包带回家。背包的容量为 $W$，这意味着所选物品的重量总和必须至多为 $W$。&lt;/p&gt;
 &lt;p&gt;找出太郎带回家的物品价值的最大可能总和。&lt;/p&gt;
@@ -26074,10 +26074,10 @@ $$&lt;p&gt;
         </item>
         <item>
         <title>Mine Digger</title>
-        <link>http://localhost:1313/p/mine-digger/</link>
+        <link>https://kierangao.github.io/p/mine-digger/</link>
         <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/mine-digger/</guid>
+        <guid>https://kierangao.github.io/p/mine-digger/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;在一个地图上有 $N\ (N \le 20)$ 个地窖，每个地窖中埋有一定数量的地雷。同时，给出地窖之间的连接路径。当地窖及其连接的数据给出之后，某人可以从任一处开始挖地雷，然后可以沿着指出的连接往下挖（仅能选择一条路径），当无连接时挖地雷工作结束。设计一个挖地雷的方案，使某人能挖到最多的地雷。&lt;/p&gt;
 &lt;h3 id=&#34;input&#34;&gt;Input
@@ -26245,10 +26245,10 @@ $$&lt;p&gt;
         </item>
         <item>
         <title>Colored Papers</title>
-        <link>http://localhost:1313/p/colored-papers/</link>
+        <link>https://kierangao.github.io/p/colored-papers/</link>
         <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/colored-papers/</guid>
+        <guid>https://kierangao.github.io/p/colored-papers/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;在上语文课时，不安分的水晶经常因为无聊去打扰正在认真听课的你，你现在已经被他搞得不耐烦了。&lt;/p&gt;
 &lt;p&gt;这时，你的目光扫到了作文纸，你突发奇想，通过作文纸设计了一个游戏，心想这下应该能支开水晶了。&lt;/p&gt;
@@ -26325,10 +26325,10 @@ $$&lt;p&gt;
         </item>
         <item>
         <title>DP PROGRESS JOURNEY</title>
-        <link>http://localhost:1313/p/dp-progress-journey/</link>
+        <link>https://kierangao.github.io/p/dp-progress-journey/</link>
         <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/dp-progress-journey/</guid>
+        <guid>https://kierangao.github.io/p/dp-progress-journey/</guid>
         <description>&lt;h3 id=&#34;有严格位置依赖的二维动态规划的一维空间优化&#34;&gt;有严格位置依赖的二维动态规划的一维空间优化
 &lt;/h3&gt;&lt;p&gt;我们以最长公共子序列的空间优化为例：&lt;/p&gt;
 &lt;p&gt;其位置依赖关系为：左上&lt;code&gt;dp[i-1][j-1]&lt;/code&gt; , 上&lt;code&gt;dp[i-1][j]&lt;/code&gt; , 左&lt;code&gt;dp[i][j-1]&lt;/code&gt;&lt;/p&gt;
@@ -28788,10 +28788,10 @@ $$&lt;p&gt;
         </item>
         <item>
         <title>Number Triangles</title>
-        <link>http://localhost:1313/p/number-triangles/</link>
+        <link>https://kierangao.github.io/p/number-triangles/</link>
         <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/number-triangles/</guid>
+        <guid>https://kierangao.github.io/p/number-triangles/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;观察下面的数字金字塔。&lt;/p&gt;
 &lt;p&gt;写一个程序来查找从最高点到底部任意处结束的路径，使路径经过数字的和最大。每一步可以走到左下方的点也可以到达右下方的点。&lt;/p&gt;
@@ -28949,10 +28949,10 @@ $$&lt;p&gt;
         </item>
         <item>
         <title>Operate K</title>
-        <link>http://localhost:1313/p/operate-k/</link>
+        <link>https://kierangao.github.io/p/operate-k/</link>
         <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/operate-k/</guid>
+        <guid>https://kierangao.github.io/p/operate-k/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;Determine whether it is possible to perform the following operation on string $S$ between $0$ and $K$ times, inclusive, to make it identical to string $T$.&lt;/p&gt;
 &lt;ul&gt;

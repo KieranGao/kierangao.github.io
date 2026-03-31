@@ -2,138 +2,138 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on OxyTheCrack</title>
-        <link>http://localhost:1313/categories/</link>
+        <link>https://kierangao.github.io/categories/</link>
         <description>Recent content in Tags on OxyTheCrack</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Gao &#34;KieRaN&#34; Ziyuan</copyright>
-        <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://kierangao.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Binary Search</title>
-        <link>http://localhost:1313/categories/binary-search/</link>
+        <link>https://kierangao.github.io/categories/binary-search/</link>
         <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/binary-search/</guid>
-        <description>&lt;img src="http://localhost:1313/categories/binary-search/BS.png" alt="Featured image of post Binary Search" /&gt;</description>
+        <guid>https://kierangao.github.io/categories/binary-search/</guid>
+        <description>&lt;img src="https://kierangao.github.io/categories/binary-search/BS.png" alt="Featured image of post Binary Search" /&gt;</description>
         </item>
         <item>
         <title>Bitmasks</title>
-        <link>http://localhost:1313/categories/bitmasks/</link>
+        <link>https://kierangao.github.io/categories/bitmasks/</link>
         <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/bitmasks/</guid>
-        <description>&lt;img src="http://localhost:1313/categories/bitmasks/BIT.jpg" alt="Featured image of post Bitmasks" /&gt;</description>
+        <guid>https://kierangao.github.io/categories/bitmasks/</guid>
+        <description>&lt;img src="https://kierangao.github.io/categories/bitmasks/BIT.jpg" alt="Featured image of post Bitmasks" /&gt;</description>
         </item>
         <item>
         <title>Breath First Search</title>
-        <link>http://localhost:1313/categories/breath-first-search/</link>
+        <link>https://kierangao.github.io/categories/breath-first-search/</link>
         <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/breath-first-search/</guid>
-        <description>&lt;img src="http://localhost:1313/categories/breath-first-search/BFS.png" alt="Featured image of post Breath First Search" /&gt;</description>
+        <guid>https://kierangao.github.io/categories/breath-first-search/</guid>
+        <description>&lt;img src="https://kierangao.github.io/categories/breath-first-search/BFS.png" alt="Featured image of post Breath First Search" /&gt;</description>
         </item>
         <item>
         <title>Data Structure</title>
-        <link>http://localhost:1313/categories/data-structure/</link>
+        <link>https://kierangao.github.io/categories/data-structure/</link>
         <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/data-structure/</guid>
-        <description>&lt;img src="http://localhost:1313/categories/data-structure/DS.png" alt="Featured image of post Data Structure" /&gt;</description>
+        <guid>https://kierangao.github.io/categories/data-structure/</guid>
+        <description>&lt;img src="https://kierangao.github.io/categories/data-structure/DS.png" alt="Featured image of post Data Structure" /&gt;</description>
         </item>
         <item>
         <title>Depth First Search</title>
-        <link>http://localhost:1313/categories/depth-first-search/</link>
+        <link>https://kierangao.github.io/categories/depth-first-search/</link>
         <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/depth-first-search/</guid>
-        <description>&lt;img src="http://localhost:1313/categories/depth-first-search/DFS.png" alt="Featured image of post Depth First Search" /&gt;</description>
+        <guid>https://kierangao.github.io/categories/depth-first-search/</guid>
+        <description>&lt;img src="https://kierangao.github.io/categories/depth-first-search/DFS.png" alt="Featured image of post Depth First Search" /&gt;</description>
         </item>
         <item>
         <title>DP</title>
-        <link>http://localhost:1313/categories/dp/</link>
+        <link>https://kierangao.github.io/categories/dp/</link>
         <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/dp/</guid>
-        <description>&lt;img src="http://localhost:1313/categories/dp/DP.png" alt="Featured image of post DP" /&gt;</description>
+        <guid>https://kierangao.github.io/categories/dp/</guid>
+        <description>&lt;img src="https://kierangao.github.io/categories/dp/DP.png" alt="Featured image of post DP" /&gt;</description>
         </item>
         <item>
         <title>Graphs</title>
-        <link>http://localhost:1313/categories/graphs/</link>
+        <link>https://kierangao.github.io/categories/graphs/</link>
         <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/graphs/</guid>
-        <description>&lt;img src="http://localhost:1313/categories/graphs/Graphs.png" alt="Featured image of post Graphs" /&gt;</description>
+        <guid>https://kierangao.github.io/categories/graphs/</guid>
+        <description>&lt;img src="https://kierangao.github.io/categories/graphs/Graphs.png" alt="Featured image of post Graphs" /&gt;</description>
         </item>
         <item>
         <title>Greedy</title>
-        <link>http://localhost:1313/categories/greedy/</link>
+        <link>https://kierangao.github.io/categories/greedy/</link>
         <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/greedy/</guid>
-        <description>&lt;img src="http://localhost:1313/categories/greedy/Greedy.png" alt="Featured image of post Greedy" /&gt;</description>
+        <guid>https://kierangao.github.io/categories/greedy/</guid>
+        <description>&lt;img src="https://kierangao.github.io/categories/greedy/Greedy.png" alt="Featured image of post Greedy" /&gt;</description>
         </item>
         <item>
         <title>Implementation</title>
-        <link>http://localhost:1313/categories/implementation/</link>
+        <link>https://kierangao.github.io/categories/implementation/</link>
         <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/implementation/</guid>
-        <description>&lt;img src="http://localhost:1313/categories/implementation/IMP.png" alt="Featured image of post Implementation" /&gt;</description>
+        <guid>https://kierangao.github.io/categories/implementation/</guid>
+        <description>&lt;img src="https://kierangao.github.io/categories/implementation/IMP.png" alt="Featured image of post Implementation" /&gt;</description>
         </item>
         <item>
         <title>Math</title>
-        <link>http://localhost:1313/categories/math/</link>
+        <link>https://kierangao.github.io/categories/math/</link>
         <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/math/</guid>
-        <description>&lt;img src="http://localhost:1313/categories/math/Math.png" alt="Featured image of post Math" /&gt;</description>
+        <guid>https://kierangao.github.io/categories/math/</guid>
+        <description>&lt;img src="https://kierangao.github.io/categories/math/Math.png" alt="Featured image of post Math" /&gt;</description>
         </item>
         <item>
         <title>Prefix Diff Suffix</title>
-        <link>http://localhost:1313/categories/prefix-diff-suffix/</link>
+        <link>https://kierangao.github.io/categories/prefix-diff-suffix/</link>
         <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/prefix-diff-suffix/</guid>
-        <description>&lt;img src="http://localhost:1313/categories/prefix-diff-suffix/PDS.png" alt="Featured image of post Prefix Diff Suffix" /&gt;</description>
+        <guid>https://kierangao.github.io/categories/prefix-diff-suffix/</guid>
+        <description>&lt;img src="https://kierangao.github.io/categories/prefix-diff-suffix/PDS.png" alt="Featured image of post Prefix Diff Suffix" /&gt;</description>
         </item>
         <item>
         <title>Shortest Paths</title>
-        <link>http://localhost:1313/categories/shortest-paths/</link>
+        <link>https://kierangao.github.io/categories/shortest-paths/</link>
         <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/shortest-paths/</guid>
-        <description>&lt;img src="http://localhost:1313/categories/shortest-paths/SP.png" alt="Featured image of post Shortest Paths" /&gt;</description>
+        <guid>https://kierangao.github.io/categories/shortest-paths/</guid>
+        <description>&lt;img src="https://kierangao.github.io/categories/shortest-paths/SP.png" alt="Featured image of post Shortest Paths" /&gt;</description>
         </item>
         <item>
         <title>STL</title>
-        <link>http://localhost:1313/categories/stl/</link>
+        <link>https://kierangao.github.io/categories/stl/</link>
         <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/stl/</guid>
-        <description>&lt;img src="http://localhost:1313/categories/stl/STL.png" alt="Featured image of post STL" /&gt;</description>
+        <guid>https://kierangao.github.io/categories/stl/</guid>
+        <description>&lt;img src="https://kierangao.github.io/categories/stl/STL.png" alt="Featured image of post STL" /&gt;</description>
         </item>
         <item>
         <title>Strings</title>
-        <link>http://localhost:1313/categories/strings/</link>
+        <link>https://kierangao.github.io/categories/strings/</link>
         <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/strings/</guid>
-        <description>&lt;img src="http://localhost:1313/categories/strings/String.png" alt="Featured image of post Strings" /&gt;</description>
+        <guid>https://kierangao.github.io/categories/strings/</guid>
+        <description>&lt;img src="https://kierangao.github.io/categories/strings/String.png" alt="Featured image of post Strings" /&gt;</description>
         </item>
         <item>
         <title>Tutorial</title>
-        <link>http://localhost:1313/categories/tutorial/</link>
+        <link>https://kierangao.github.io/categories/tutorial/</link>
         <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/tutorial/</guid>
-        <description>&lt;img src="http://localhost:1313/categories/tutorial/DP.png" alt="Featured image of post Tutorial" /&gt;</description>
+        <guid>https://kierangao.github.io/categories/tutorial/</guid>
+        <description>&lt;img src="https://kierangao.github.io/categories/tutorial/DP.png" alt="Featured image of post Tutorial" /&gt;</description>
         </item>
         <item>
         <title>Two Pointer</title>
-        <link>http://localhost:1313/categories/two-pointer/</link>
+        <link>https://kierangao.github.io/categories/two-pointer/</link>
         <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/two-pointer/</guid>
-        <description>&lt;img src="http://localhost:1313/categories/two-pointer/TP.png" alt="Featured image of post Two Pointer" /&gt;</description>
+        <guid>https://kierangao.github.io/categories/two-pointer/</guid>
+        <description>&lt;img src="https://kierangao.github.io/categories/two-pointer/TP.png" alt="Featured image of post Two Pointer" /&gt;</description>
         </item>
         
     </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Data Structure on OxyTheCrack</title>
-        <link>http://localhost:1313/categories/data-structure/</link>
+        <link>https://kierangao.github.io/categories/data-structure/</link>
         <description>Recent content in Data Structure on OxyTheCrack</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Gao &#34;KieRaN&#34; Ziyuan</copyright>
-        <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/data-structure/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://kierangao.github.io/categories/data-structure/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Templates Collection</title>
-        <link>http://localhost:1313/p/templates-collection/</link>
+        <link>https://kierangao.github.io/p/templates-collection/</link>
         <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/templates-collection/</guid>
+        <guid>https://kierangao.github.io/p/templates-collection/</guid>
         <description>&lt;hr&gt;
 $$
 -=Templates-Collection=- \\
@@ -23404,10 +23404,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Make The Team</title>
-        <link>http://localhost:1313/p/make-the-team/</link>
+        <link>https://kierangao.github.io/p/make-the-team/</link>
         <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/make-the-team/</guid>
+        <guid>https://kierangao.github.io/p/make-the-team/</guid>
         <description>&lt;h1 id=&#34;make-the-team&#34;&gt;Make the Team
 &lt;/h1&gt;&lt;p&gt;&lt;strong&gt;filename:&lt;/strong&gt; &lt;code&gt;maketeam&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Difficulty Level:&lt;/strong&gt; Medium-Hard&lt;/p&gt;
@@ -23695,10 +23695,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Clearance</title>
-        <link>http://localhost:1313/p/clearance/</link>
+        <link>https://kierangao.github.io/p/clearance/</link>
         <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/clearance/</guid>
+        <guid>https://kierangao.github.io/p/clearance/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;AtCoder Inc.&amp;rsquo;s online shop currently handles $N$ products, and the stock of product $i$ is $A_i$ units remaining.&lt;/p&gt;
 &lt;p&gt;Process the following $Q$ orders in order. The $i$-th order is as follows:&lt;/p&gt;
@@ -23996,10 +23996,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Shortest Path Graph</title>
-        <link>http://localhost:1313/p/shortest-path-graph/</link>
+        <link>https://kierangao.github.io/p/shortest-path-graph/</link>
         <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/shortest-path-graph/</guid>
+        <guid>https://kierangao.github.io/p/shortest-path-graph/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;坎格鲁斯普雷最近学了最短路有关的算法，于是他给袋鼠将军出了这样一个问题： 给定一张有 $n$ 个节点的图，图中初始没有任何边。然后给你 $m$ 条有权值的没有被指定连接的节点的（你可以任意决定它所连接的节点）无向边，你需要将这 $m$ 条无向边&lt;strong&gt;全部加进图内&lt;/strong&gt;（每条边只能被使用一次），不允许出现自环（但允许出现重边），使得 1 号节点到其他所有节点的最短路恰好为一个给定的数组 $dis$。 袋鼠将军显然并不是图论高手，他并不会这道问题，于是他求助于你。当然，袋鼠将军也不是一个贪心的人，你并不需要构造问题的解决方案，&lt;strong&gt;你只需要判断问题是否有解即可&lt;/strong&gt;。&lt;/p&gt;
 &lt;h3 id=&#34;input&#34;&gt;Input
@@ -24170,10 +24170,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Good Partitions</title>
-        <link>http://localhost:1313/p/good-partitions/</link>
+        <link>https://kierangao.github.io/p/good-partitions/</link>
         <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/good-partitions/</guid>
+        <guid>https://kierangao.github.io/p/good-partitions/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;Lawliet has a sequence of numbers of length \( n \), denoted as \( a_1, a_2, \dots, a_n \), and he wants to determine how many good partitions exist.   A partition size \( k \) is considered a good partition size if it satisfies \( 1 \leq k \leq n \) and, after dividing the sequence \( a \) into parts by partition size, each resulting sub-sequence is non-decreasing. The partitioning method is as follows:&lt;/p&gt;
 &lt;ul&gt;
@@ -24430,10 +24430,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Minimum OR Path</title>
-        <link>http://localhost:1313/p/minimum-or-path/</link>
+        <link>https://kierangao.github.io/p/minimum-or-path/</link>
         <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/minimum-or-path/</guid>
+        <guid>https://kierangao.github.io/p/minimum-or-path/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;You are given a connected undirected graph with $N$ vertices and $M$ edges without self-loops, where vertices are numbered from $1$ to $N$ and edges are numbered from $1$ to $M$. Edge $i$ connects vertices $u_i$ and $v_i$ bidirectionally and has a label $w_i$.&lt;/p&gt;
 &lt;p&gt;Among the simple paths (paths that do not visit the same vertex more than once) from vertex $1$ to vertex $N$, find the minimum possible value of the bitwise $\mathrm{OR}$ of all labels on edges included in the path.&lt;/p&gt;
@@ -24589,10 +24589,10 @@ In general, the bitwise $\mathrm{OR}$ of $k$ non-negative integers $p_1, p_2, p_
         </item>
         <item>
         <title>lowbit</title>
-        <link>http://localhost:1313/p/lowbit/</link>
+        <link>https://kierangao.github.io/p/lowbit/</link>
         <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/lowbit/</guid>
+        <guid>https://kierangao.github.io/p/lowbit/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;Lucida has a sequence of $n$ integers $a_1, a_2, \dots, a_n$. He asks you to perform two types of operations for him, which are described as follows:&lt;/p&gt;
 &lt;p&gt;1. 1 L R, add $lowbit(a_i)$ to each $a_i$ in the interval $[L, R]$.&lt;/p&gt;
@@ -24807,10 +24807,10 @@ In general, the bitwise $\mathrm{OR}$ of $k$ non-negative integers $p_1, p_2, p_
         </item>
         <item>
         <title>Light Switch</title>
-        <link>http://localhost:1313/p/light-switch/</link>
+        <link>https://kierangao.github.io/p/light-switch/</link>
         <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/light-switch/</guid>
+        <guid>https://kierangao.github.io/p/light-switch/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;现有 $n$ 盏灯排成一排，从左到右依次编号为：$1$，$2$，……，$n$。然后依次执行 $m$ 项操作。&lt;/p&gt;
 &lt;p&gt;操作分为两种：&lt;/p&gt;
@@ -25299,10 +25299,10 @@ In general, the bitwise $\mathrm{OR}$ of $k$ non-negative integers $p_1, p_2, p_
         </item>
         <item>
         <title>上帝造题的七分钟 2 / 花神游历各国</title>
-        <link>http://localhost:1313/p/%E4%B8%8A%E5%B8%9D%E9%80%A0%E9%A2%98%E7%9A%84%E4%B8%83%E5%88%86%E9%92%9F-2-/-%E8%8A%B1%E7%A5%9E%E6%B8%B8%E5%8E%86%E5%90%84%E5%9B%BD/</link>
+        <link>https://kierangao.github.io/p/%E4%B8%8A%E5%B8%9D%E9%80%A0%E9%A2%98%E7%9A%84%E4%B8%83%E5%88%86%E9%92%9F-2-/-%E8%8A%B1%E7%A5%9E%E6%B8%B8%E5%8E%86%E5%90%84%E5%9B%BD/</link>
         <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/%E4%B8%8A%E5%B8%9D%E9%80%A0%E9%A2%98%E7%9A%84%E4%B8%83%E5%88%86%E9%92%9F-2-/-%E8%8A%B1%E7%A5%9E%E6%B8%B8%E5%8E%86%E5%90%84%E5%9B%BD/</guid>
+        <guid>https://kierangao.github.io/p/%E4%B8%8A%E5%B8%9D%E9%80%A0%E9%A2%98%E7%9A%84%E4%B8%83%E5%88%86%E9%92%9F-2-/-%E8%8A%B1%E7%A5%9E%E6%B8%B8%E5%8E%86%E5%90%84%E5%9B%BD/</guid>
         <description>&lt;h3 id=&#34;problem-statement--input&#34;&gt;Problem Statement &amp;amp;&amp;amp; Input
 &lt;/h3&gt;&lt;p&gt;第一行一个整数 $n$，代表数列中数的个数。&lt;/p&gt;
 &lt;p&gt;第二行 $n$ 个正整数，表示初始状态下数列中的数。&lt;/p&gt;
@@ -25575,10 +25575,10 @@ In general, the bitwise $\mathrm{OR}$ of $k$ non-negative integers $p_1, p_2, p_
         </item>
         <item>
         <title>Vases And Flowers</title>
-        <link>http://localhost:1313/p/vases-and-flowers/</link>
+        <link>https://kierangao.github.io/p/vases-and-flowers/</link>
         <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/vases-and-flowers/</guid>
+        <guid>https://kierangao.github.io/p/vases-and-flowers/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;给定n个瓶子，编号从0~n-1，一开始所有瓶子都是空的
 每个瓶子最多插入一朵花，实现以下两种类型的操作
@@ -25809,10 +25809,10 @@ In general, the bitwise $\mathrm{OR}$ of $k$ non-negative integers $p_1, p_2, p_
         </item>
         <item>
         <title>Divide Cake</title>
-        <link>http://localhost:1313/p/divide-cake/</link>
+        <link>https://kierangao.github.io/p/divide-cake/</link>
         <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/divide-cake/</guid>
+        <guid>https://kierangao.github.io/p/divide-cake/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;今天是小 Z 的生日，同学们为他带来了一块蛋糕。这块蛋糕是一个长方体，被用不同色彩分成了 $n$ 个相同的小块，每小块都有对应的幸运值。&lt;/p&gt;
 &lt;p&gt;小 Z 作为寿星，自然希望吃到的蛋糕的幸运值总和最大，但小 Z 最多又只能吃 $m(m\le n)$ 小块的蛋糕。&lt;/p&gt;
@@ -25936,10 +25936,10 @@ In general, the bitwise $\mathrm{OR}$ of $k$ non-negative integers $p_1, p_2, p_
         </item>
         <item>
         <title>星球大战</title>
-        <link>http://localhost:1313/p/%E6%98%9F%E7%90%83%E5%A4%A7%E6%88%98/</link>
+        <link>https://kierangao.github.io/p/%E6%98%9F%E7%90%83%E5%A4%A7%E6%88%98/</link>
         <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/%E6%98%9F%E7%90%83%E5%A4%A7%E6%88%98/</guid>
+        <guid>https://kierangao.github.io/p/%E6%98%9F%E7%90%83%E5%A4%A7%E6%88%98/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;很久以前，在一个遥远的星系，一个黑暗的帝国靠着它的超级武器统治着整个星系。&lt;/p&gt;
 &lt;p&gt;某一天，凭着一个偶然的机遇，一支反抗军摧毁了帝国的超级武器，并攻下了星系中几乎所有的星球。这些星球通过特殊的以太隧道互相直接或间接地连接。&lt;/p&gt;
@@ -26233,10 +26233,10 @@ In general, the bitwise $\mathrm{OR}$ of $k$ non-negative integers $p_1, p_2, p_
         </item>
         <item>
         <title>Chick&#39;s Arrangement Structure Checker</title>
-        <link>http://localhost:1313/p/chicks-arrangement-structure-checker/</link>
+        <link>https://kierangao.github.io/p/chicks-arrangement-structure-checker/</link>
         <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/chicks-arrangement-structure-checker/</guid>
+        <guid>https://kierangao.github.io/p/chicks-arrangement-structure-checker/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;$\hspace{15pt}$&lt;strong&gt;本题与《小鸡的排列构造》共享部分题目背景，但是所求内容不同，我们建议您重新阅读题面。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;$\hspace{15pt}$小鸡出好了《小鸡的排列构造》一题，却发现自己不会写复杂度正确的checker（一定程度上是真的）！小鸡只好寻求你的帮助。&lt;br&gt;
@@ -26827,10 +26827,10 @@ $$&lt;p&gt;
         </item>
         <item>
         <title>Flowerpot S</title>
-        <link>http://localhost:1313/p/flowerpot-s/</link>
+        <link>https://kierangao.github.io/p/flowerpot-s/</link>
         <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/flowerpot-s/</guid>
+        <guid>https://kierangao.github.io/p/flowerpot-s/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;Farmer John has been having trouble making his plants grow, and needs your help to water them properly.  You are given the locations of N raindrops (1 &amp;lt;= N &amp;lt;= 100,000) in the 2D plane, where y represents vertical height of the drop, and x represents its location over a 1D number line:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://cdn.luogu.com.cn/upload/pic/9174.png&#34;
@@ -27057,10 +27057,10 @@ $$&lt;p&gt;
         </item>
         <item>
         <title>HH&#39;s Necklace</title>
-        <link>http://localhost:1313/p/hhs-necklace/</link>
+        <link>https://kierangao.github.io/p/hhs-necklace/</link>
         <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/hhs-necklace/</guid>
+        <guid>https://kierangao.github.io/p/hhs-necklace/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;HH 有一串由各种漂亮的贝壳组成的项链。HH 相信不同的贝壳会带来好运，所以每次散步完后，他都会随意取出一段贝壳，思考它们所表达的含义。HH 不断地收集新的贝壳，因此，他的项链变得越来越长。&lt;/p&gt;
 &lt;p&gt;有一天，他突然提出了一个问题：某一段贝壳中，包含了多少种不同的贝壳？这个问题很难回答…… 因为项链实在是太长了。于是，他只好求助睿智的你，来解决这个问题。&lt;/p&gt;

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Strings on OxyTheCrack</title>
-        <link>http://localhost:1313/categories/strings/</link>
+        <link>https://kierangao.github.io/categories/strings/</link>
         <description>Recent content in Strings on OxyTheCrack</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Gao &#34;KieRaN&#34; Ziyuan</copyright>
-        <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/strings/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://kierangao.github.io/categories/strings/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Templates Collection</title>
-        <link>http://localhost:1313/p/templates-collection/</link>
+        <link>https://kierangao.github.io/p/templates-collection/</link>
         <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/templates-collection/</guid>
+        <guid>https://kierangao.github.io/p/templates-collection/</guid>
         <description>&lt;hr&gt;
 $$
 -=Templates-Collection=- \\
@@ -23404,10 +23404,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Palindromic in both bases</title>
-        <link>http://localhost:1313/p/palindromic-in-both-bases/</link>
+        <link>https://kierangao.github.io/p/palindromic-in-both-bases/</link>
         <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/palindromic-in-both-bases/</guid>
+        <guid>https://kierangao.github.io/p/palindromic-in-both-bases/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;The decimal representation of $414$ is &lt;code&gt;414&lt;/code&gt;, which is a palindrome. Also, the octal representation of $414$ is &lt;code&gt;636&lt;/code&gt;, which is also a palindrome. Based on this, solve the following problem.&lt;/p&gt;
 &lt;p&gt;You are given positive integers $A$ and $N$. Find the sum of all integers between $1$ and $N$, inclusive, whose decimal representation and base-$A$ representation are both palindromes.&lt;/p&gt;
@@ -23501,10 +23501,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>EditDistance(Levenshtein Distance)</title>
-        <link>http://localhost:1313/p/editdistancelevenshtein-distance/</link>
+        <link>https://kierangao.github.io/p/editdistancelevenshtein-distance/</link>
         <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/editdistancelevenshtein-distance/</guid>
+        <guid>https://kierangao.github.io/p/editdistancelevenshtein-distance/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;设 $A$ 和 $B$ 是两个字符串。我们要用最少的字符操作次数，将字符串 $A$ 转换为字符串 $B$。这里所说的字符操作共有三种：&lt;/p&gt;
 &lt;ol&gt;
@@ -23692,10 +23692,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Longest Bracket Matching</title>
-        <link>http://localhost:1313/p/longest-bracket-matching/</link>
+        <link>https://kierangao.github.io/p/longest-bracket-matching/</link>
         <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/longest-bracket-matching/</guid>
+        <guid>https://kierangao.github.io/p/longest-bracket-matching/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;对一个由(,),[,]括号组成的字符串，求出其中最长的括号匹配子串。具体来说，满足如下条件的字符串成为括号匹配的字符串：&lt;/p&gt;
 &lt;p&gt;1.(),[]是括号匹配的字符串。&lt;/p&gt;
@@ -23885,10 +23885,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>变鸡器</title>
-        <link>http://localhost:1313/p/%E5%8F%98%E9%B8%A1%E5%99%A8/</link>
+        <link>https://kierangao.github.io/p/%E5%8F%98%E9%B8%A1%E5%99%A8/</link>
         <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/%E5%8F%98%E9%B8%A1%E5%99%A8/</guid>
+        <guid>https://kierangao.github.io/p/%E5%8F%98%E9%B8%A1%E5%99%A8/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;$\hspace{15pt}$在高中物理课堂上，我们都接触过了变鸭器，对此颇有兴趣的小火研制了一款可以处理字符串的变鸡器。&lt;br&gt;
 $\hspace{15pt}$变鸡器可以对字符串进行任意次数（可以是零次）的以下操作：选择字符串中任意两个&lt;strong&gt;不同&lt;/strong&gt;字符，将其同时删去，剩余字符按原顺序拼接起来。形式化地，变鸡器选择两个下标 $i, j \left(i \lt j\right)$ 满足 $s_i \neq s_j$，将这两个字符同时删去，剩余字符串拼接在一起得到$s_1s_2\cdots s_{i-1}s_{i+1}\cdots s_{j-1}s_{j+1}\cdots s_n$&lt;br&gt;
@@ -24065,10 +24065,10 @@ $\hspace{15pt}$第二行输入一个长度为 $n$、仅由大写英文字母构�
         </item>
         <item>
         <title>Operate K</title>
-        <link>http://localhost:1313/p/operate-k/</link>
+        <link>https://kierangao.github.io/p/operate-k/</link>
         <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/operate-k/</guid>
+        <guid>https://kierangao.github.io/p/operate-k/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;Determine whether it is possible to perform the following operation on string $S$ between $0$ and $K$ times, inclusive, to make it identical to string $T$.&lt;/p&gt;
 &lt;ul&gt;

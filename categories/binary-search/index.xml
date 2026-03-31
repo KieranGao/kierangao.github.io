@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Binary Search on OxyTheCrack</title>
-        <link>http://localhost:1313/categories/binary-search/</link>
+        <link>https://kierangao.github.io/categories/binary-search/</link>
         <description>Recent content in Binary Search on OxyTheCrack</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Gao &#34;KieRaN&#34; Ziyuan</copyright>
-        <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/binary-search/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://kierangao.github.io/categories/binary-search/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Templates Collection</title>
-        <link>http://localhost:1313/p/templates-collection/</link>
+        <link>https://kierangao.github.io/p/templates-collection/</link>
         <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/templates-collection/</guid>
+        <guid>https://kierangao.github.io/p/templates-collection/</guid>
         <description>&lt;hr&gt;
 $$
 -=Templates-Collection=- \\
@@ -23404,10 +23404,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Efficient Algorithm</title>
-        <link>http://localhost:1313/p/efficient-algorithm/</link>
+        <link>https://kierangao.github.io/p/efficient-algorithm/</link>
         <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/efficient-algorithm/</guid>
+        <guid>https://kierangao.github.io/p/efficient-algorithm/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;给出长度为n的正整数序列{an}和{bn}。对于每个ai（1≤i≤n），进行恰好一次以下操作： • 将ai 变成满足|ai−x|≤k×bi 的任意整数x。 请你求出最小的非负整数k，使得存在至少一种方法使得操作后序列{an}所有数都相等&lt;/p&gt;
 &lt;h3 id=&#34;input&#34;&gt;Input
@@ -23485,10 +23485,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Min Max Mex</title>
-        <link>http://localhost:1313/p/min-max-mex/</link>
+        <link>https://kierangao.github.io/p/min-max-mex/</link>
         <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/min-max-mex/</guid>
+        <guid>https://kierangao.github.io/p/min-max-mex/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;You are given an array $a$ of length $n$ and a number $k$.&lt;/p&gt;
 &lt;p&gt;A subarray is defined as a sequence of one or more consecutive elements of the array. You need to split the array $a$ into $k$ non-overlapping subarrays $b_1, b_2, \dots, b_k$ such that the union of these subarrays equals the entire array. Additionally, you need to maximize the value of $x$, which is equal to the minimum MEX$(b_i)$, for $i \in [1..k]$.&lt;/p&gt;
@@ -23602,10 +23602,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Vases And Flowers</title>
-        <link>http://localhost:1313/p/vases-and-flowers/</link>
+        <link>https://kierangao.github.io/p/vases-and-flowers/</link>
         <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/vases-and-flowers/</guid>
+        <guid>https://kierangao.github.io/p/vases-and-flowers/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;给定n个瓶子，编号从0~n-1，一开始所有瓶子都是空的
 每个瓶子最多插入一朵花，实现以下两种类型的操作
@@ -23836,10 +23836,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Fast and Fat</title>
-        <link>http://localhost:1313/p/fast-and-fat/</link>
+        <link>https://kierangao.github.io/p/fast-and-fat/</link>
         <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/fast-and-fat/</guid>
+        <guid>https://kierangao.github.io/p/fast-and-fat/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;您正在参加一场团体越野比赛。您的队伍共有 $n$ 名队员，其中第 $i$ 名队员的速度为 $v_i$，体重为 $w_i$。&lt;/p&gt;
 &lt;p&gt;比赛允许每名队员独立行动，也允许一名队员背着另一名队员一起行动。当队员 $i$ 背着队员 $j$ 时，如果队员 $i$ 的体重大于等于队员 $j$，则队员 $i$ 的移动速度不会变化，仍然为 $v_i$；如果队员 $i$ 的体重小于队员 $j$，则队员 $i$ 的移动速度会减去两者的体重差值，即变为 $v_i - (w_j - w_i)$。如果队员 $i$ 的移动速度将变为负数，则队员 $i$ 无法背起队员 $j$。每名队员最多只能背负另一名队员，被背负的队员无法同时背负其他队员。&lt;/p&gt;
@@ -23995,10 +23995,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Painting Galary</title>
-        <link>http://localhost:1313/p/painting-galary/</link>
+        <link>https://kierangao.github.io/p/painting-galary/</link>
         <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/painting-galary/</guid>
+        <guid>https://kierangao.github.io/p/painting-galary/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;博览馆正在展出由世上最佳的 $m$ 位画家所画的图画。&lt;/p&gt;
 &lt;p&gt;游客在购买门票时必须说明两个数字，$a$ 和 $b$，代表他要看展览中的第 $a$ 幅至第 $b$ 幅画（包含 $a,b$）之间的所有图画，而门票的价钱就是一张图画一元。&lt;/p&gt;
@@ -24125,10 +24125,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Copy Books</title>
-        <link>http://localhost:1313/p/copy-books/</link>
+        <link>https://kierangao.github.io/p/copy-books/</link>
         <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/copy-books/</guid>
+        <guid>https://kierangao.github.io/p/copy-books/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;现在要把 $m$ 本有顺序的书分给 $k$ 个人复制（抄写），每一个人的抄写速度都一样，一本书不允许给两个（或以上）的人抄写，分给每一个人的书，必须是连续的，比如不能把第一、第三、第四本书给同一个人抄写。&lt;/p&gt;
 &lt;p&gt;现在请你设计一种方案，使得复制时间最短。复制时间为抄写页数最多的人用去的时间。&lt;/p&gt;
@@ -24327,10 +24327,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>CutRopes</title>
-        <link>http://localhost:1313/p/cutropes/</link>
+        <link>https://kierangao.github.io/p/cutropes/</link>
         <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/cutropes/</guid>
+        <guid>https://kierangao.github.io/p/cutropes/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;有 $N$ 条绳子，它们的长度分别为 $L_i$。如果从它们中切割出 $K$ 条长度相同的绳子，这 $K$ 条绳子每条最长能有多长？答案保留到小数点后 $2$ 位(直接舍掉 $2$ 位后的小数)。&lt;/p&gt;
 &lt;h3 id=&#34;input&#34;&gt;Input
@@ -24444,10 +24444,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Logs</title>
-        <link>http://localhost:1313/p/logs/</link>
+        <link>https://kierangao.github.io/p/logs/</link>
         <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/logs/</guid>
+        <guid>https://kierangao.github.io/p/logs/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;有 $n$ 棵树，初始时每棵树的高度为 $H_i$，第 $i$ 棵树每月都会长高 $A_i$。现在有个木料长度总量为 $S$ 的订单，客户要求每块木料的长度不能小于  $L$，而且木料必须是整棵树（即不能为树的一部分）。现在问你最少需要等多少个月才能满足订单。&lt;/p&gt;
 &lt;h3 id=&#34;input&#34;&gt;Input
@@ -24562,10 +24562,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>聪明的质检员</title>
-        <link>http://localhost:1313/p/%E8%81%AA%E6%98%8E%E7%9A%84%E8%B4%A8%E6%A3%80%E5%91%98/</link>
+        <link>https://kierangao.github.io/p/%E8%81%AA%E6%98%8E%E7%9A%84%E8%B4%A8%E6%A3%80%E5%91%98/</link>
         <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/%E8%81%AA%E6%98%8E%E7%9A%84%E8%B4%A8%E6%A3%80%E5%91%98/</guid>
+        <guid>https://kierangao.github.io/p/%E8%81%AA%E6%98%8E%E7%9A%84%E8%B4%A8%E6%A3%80%E5%91%98/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;&lt;code&gt;小T&lt;/code&gt; 是一名质量监督员，最近负责检验一批矿产的质量。这批矿产共有 $n$ 个矿石，从 $1$ 到 $n$ 逐一编号，每个矿石都有自己的重量 $w_i$ 以及价值 $v_i$ 。检验矿产的流程是：&lt;/p&gt;
 &lt;ol&gt;
@@ -24781,10 +24781,10 @@ $$&lt;p&gt;上式的意思是在[l,r]区间内所有满足[w$_{i}\ge$W]的个数
         </item>
         <item>
         <title>Borrow Classroom</title>
-        <link>http://localhost:1313/p/borrow-classroom/</link>
+        <link>https://kierangao.github.io/p/borrow-classroom/</link>
         <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/borrow-classroom/</guid>
+        <guid>https://kierangao.github.io/p/borrow-classroom/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;在大学期间，经常需要租借教室。大到院系举办活动，小到学习小组自习讨论，都需要向学校申请借教室。教室的大小功能不同，借教室人的身份不同，借教室的手续也不一样。&lt;/p&gt;
 &lt;p&gt;面对海量租借教室的信息，我们自然希望编程解决这个问题。&lt;/p&gt;
@@ -24993,10 +24993,10 @@ $$&lt;p&gt;上式的意思是在[l,r]区间内所有满足[w$_{i}\ge$W]的个数
         </item>
         <item>
         <title>Simultaneous Kagamimochi</title>
-        <link>http://localhost:1313/p/simultaneous-kagamimochi/</link>
+        <link>https://kierangao.github.io/p/simultaneous-kagamimochi/</link>
         <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/simultaneous-kagamimochi/</guid>
+        <guid>https://kierangao.github.io/p/simultaneous-kagamimochi/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;There are $N$ mochi (rice cakes), arranged in ascending order of size. The size of the $i$-th mochi $(1\leq i\leq N)$ is $A_i$.&lt;/p&gt;
 &lt;p&gt;Given two mochi $A$ and $B$, with sizes $a$ and $b$ respectively, you can make one kagamimochi (a stacked rice cake) by placing mochi $A$ on top of mochi $B$ if and only if $a$ is at most half of $b$.&lt;/p&gt;
