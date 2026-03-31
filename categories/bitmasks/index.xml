@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Bitmasks on OxyTheCrack</title>
-        <link>https://raythecrack.github.io/categories/bitmasks/</link>
+        <link>http://localhost:1313/categories/bitmasks/</link>
         <description>Recent content in Bitmasks on OxyTheCrack</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Gao &#34;KieRaN&#34; Ziyuan</copyright>
-        <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://raythecrack.github.io/categories/bitmasks/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/bitmasks/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Templates Collection</title>
-        <link>https://raythecrack.github.io/p/templates-collection/</link>
+        <link>http://localhost:1313/p/templates-collection/</link>
         <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
         
-        <guid>https://raythecrack.github.io/p/templates-collection/</guid>
+        <guid>http://localhost:1313/p/templates-collection/</guid>
         <description>&lt;hr&gt;
 $$
 -=Templates-Collection=- \\
@@ -23404,10 +23404,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Make it beauty</title>
-        <link>https://raythecrack.github.io/p/make-it-beauty/</link>
+        <link>http://localhost:1313/p/make-it-beauty/</link>
         <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://raythecrack.github.io/p/make-it-beauty/</guid>
+        <guid>http://localhost:1313/p/make-it-beauty/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;You are given an array $a$ of $n$ integers. We define the $\text{beauty}$ of a number $x$ to be the number of $1$ bits in its binary representation. We define the beauty of an array to be the sum of beauties of the numbers it contains.&lt;/p&gt;
 &lt;p&gt;In one operation, you can select an index $i$ $(1 \le i \le n)$ and increase $a_i$ by $1$.&lt;/p&gt;
@@ -23534,10 +23534,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Minimum OR Path</title>
-        <link>https://raythecrack.github.io/p/minimum-or-path/</link>
+        <link>http://localhost:1313/p/minimum-or-path/</link>
         <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://raythecrack.github.io/p/minimum-or-path/</guid>
+        <guid>http://localhost:1313/p/minimum-or-path/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;You are given a connected undirected graph with $N$ vertices and $M$ edges without self-loops, where vertices are numbered from $1$ to $N$ and edges are numbered from $1$ to $M$. Edge $i$ connects vertices $u_i$ and $v_i$ bidirectionally and has a label $w_i$.&lt;/p&gt;
 &lt;p&gt;Among the simple paths (paths that do not visit the same vertex more than once) from vertex $1$ to vertex $N$, find the minimum possible value of the bitwise $\mathrm{OR}$ of all labels on edges included in the path.&lt;/p&gt;
@@ -23693,10 +23693,10 @@ In general, the bitwise $\mathrm{OR}$ of $k$ non-negative integers $p_1, p_2, p_
         </item>
         <item>
         <title>Boneca Ambalabu</title>
-        <link>https://raythecrack.github.io/p/boneca-ambalabu/</link>
+        <link>http://localhost:1313/p/boneca-ambalabu/</link>
         <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://raythecrack.github.io/p/boneca-ambalabu/</guid>
+        <guid>http://localhost:1313/p/boneca-ambalabu/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;Boneca Ambalabu gives you a sequence of $n$ integers $a_1,a_2,\ldots,a_n$.&lt;/p&gt;
 &lt;p&gt;Output the maximum value of $(a_k\oplus a_1)+(a_k\oplus a_2)+\ldots+(a_k\oplus a_n)$ among all $1 \leq k \leq n$. Note that $\oplus$ denotes the &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Bitwise_operation#XOR&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;

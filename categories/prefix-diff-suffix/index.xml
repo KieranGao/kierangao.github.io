@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Prefix Diff Suffix on OxyTheCrack</title>
-        <link>https://raythecrack.github.io/categories/prefix-diff-suffix/</link>
+        <link>http://localhost:1313/categories/prefix-diff-suffix/</link>
         <description>Recent content in Prefix Diff Suffix on OxyTheCrack</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Gao &#34;KieRaN&#34; Ziyuan</copyright>
-        <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://raythecrack.github.io/categories/prefix-diff-suffix/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/prefix-diff-suffix/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Templates Collection</title>
-        <link>https://raythecrack.github.io/p/templates-collection/</link>
+        <link>http://localhost:1313/p/templates-collection/</link>
         <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
         
-        <guid>https://raythecrack.github.io/p/templates-collection/</guid>
+        <guid>http://localhost:1313/p/templates-collection/</guid>
         <description>&lt;hr&gt;
 $$
 -=Templates-Collection=- \\
@@ -23404,10 +23404,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>K倍区间</title>
-        <link>https://raythecrack.github.io/p/k%E5%80%8D%E5%8C%BA%E9%97%B4/</link>
+        <link>http://localhost:1313/p/k%E5%80%8D%E5%8C%BA%E9%97%B4/</link>
         <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://raythecrack.github.io/p/k%E5%80%8D%E5%8C%BA%E9%97%B4/</guid>
+        <guid>http://localhost:1313/p/k%E5%80%8D%E5%8C%BA%E9%97%B4/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;给定一个长度为 $N$ 的数列，$A_1,A_2, \cdots A_N$，如果其中一段连续的子序列 $A_i,A_{i+1}, \cdots A_j(i \le j)$ 之和是 $K$ 的倍数，我们就称这个区间 $[i,j]$ 是 $K$ 倍区间。&lt;/p&gt;
 &lt;p&gt;你能求出数列中总共有多少个 $K$ 倍区间吗？&lt;/p&gt;
@@ -23510,10 +23510,10 @@ $$&lt;p&gt;所以我们可以维护一个桶，记录每个前缀和%k余数的�
         </item>
         <item>
         <title>Divide Cake</title>
-        <link>https://raythecrack.github.io/p/divide-cake/</link>
+        <link>http://localhost:1313/p/divide-cake/</link>
         <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://raythecrack.github.io/p/divide-cake/</guid>
+        <guid>http://localhost:1313/p/divide-cake/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;今天是小 Z 的生日，同学们为他带来了一块蛋糕。这块蛋糕是一个长方体，被用不同色彩分成了 $n$ 个相同的小块，每小块都有对应的幸运值。&lt;/p&gt;
 &lt;p&gt;小 Z 作为寿星，自然希望吃到的蛋糕的幸运值总和最大，但小 Z 最多又只能吃 $m(m\le n)$ 小块的蛋糕。&lt;/p&gt;
@@ -23637,10 +23637,10 @@ $$&lt;p&gt;所以我们可以维护一个桶，记录每个前缀和%k余数的�
         </item>
         <item>
         <title>Variety is Discouraged</title>
-        <link>https://raythecrack.github.io/p/variety-is-discouraged/</link>
+        <link>http://localhost:1313/p/variety-is-discouraged/</link>
         <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://raythecrack.github.io/p/variety-is-discouraged/</guid>
+        <guid>http://localhost:1313/p/variety-is-discouraged/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;Define the score of an arbitrary array $b$ to be the length of $b$ minus the number of distinct elements in $b$. For example:&lt;/p&gt;
 &lt;ul&gt;
@@ -23786,10 +23786,10 @@ $$&lt;p&gt;所以我们可以维护一个桶，记录每个前缀和%k余数的�
         </item>
         <item>
         <title>Chick&#39;s Arrangement Structure Checker</title>
-        <link>https://raythecrack.github.io/p/chicks-arrangement-structure-checker/</link>
+        <link>http://localhost:1313/p/chicks-arrangement-structure-checker/</link>
         <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://raythecrack.github.io/p/chicks-arrangement-structure-checker/</guid>
+        <guid>http://localhost:1313/p/chicks-arrangement-structure-checker/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;$\hspace{15pt}$&lt;strong&gt;本题与《小鸡的排列构造》共享部分题目背景，但是所求内容不同，我们建议您重新阅读题面。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;$\hspace{15pt}$小鸡出好了《小鸡的排列构造》一题，却发现自己不会写复杂度正确的checker（一定程度上是真的）！小鸡只好寻求你的帮助。&lt;br&gt;
@@ -24380,10 +24380,10 @@ $$&lt;p&gt;
         </item>
         <item>
         <title>Lycanthropy</title>
-        <link>https://raythecrack.github.io/p/lycanthropy/</link>
+        <link>http://localhost:1313/p/lycanthropy/</link>
         <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://raythecrack.github.io/p/lycanthropy/</guid>
+        <guid>http://localhost:1313/p/lycanthropy/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;小正方形亲眼看见了自己昔日的朋友被卷进了黑暗的深渊，然而它无力阻止……&lt;/p&gt;
 &lt;p&gt;现在它的朋友已经向它发起了攻击，因此小正方形不得不抵抗。&lt;/p&gt;
@@ -24566,10 +24566,10 @@ $$&lt;p&gt;
         </item>
         <item>
         <title>Fish Catcher</title>
-        <link>https://raythecrack.github.io/p/fish-catcher/</link>
+        <link>http://localhost:1313/p/fish-catcher/</link>
         <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://raythecrack.github.io/p/fish-catcher/</guid>
+        <guid>http://localhost:1313/p/fish-catcher/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;回到家中的猫猫把三桶鱼全部转移到了她那长方形大池子中，然后开始思考：到底要以何种方法吃鱼呢（猫猫就是这么可爱，吃鱼也要想好吃法 ^_*）。她发现，把大池子视为 $01$ 矩阵（$0$ 表示对应位置无鱼，$1$ 表示对应位置有鱼）有助于决定吃鱼策略。&lt;/p&gt;
 &lt;p&gt;在代表池子的 $01$ 矩阵中，有很多的正方形子矩阵，如果某个正方形子矩阵的某条对角线上都有鱼，且此&lt;strong&gt;正方形子矩阵的其他地方无鱼&lt;/strong&gt;，猫猫就可以从这个正方形子矩阵“对角线的一端”下口，只一吸，就能把对角线上的那一队鲜鱼吸入口中。&lt;/p&gt;
@@ -24791,10 +24791,10 @@ $$&lt;p&gt;
         </item>
         <item>
         <title>地毯</title>
-        <link>https://raythecrack.github.io/p/%E5%9C%B0%E6%AF%AF/</link>
+        <link>http://localhost:1313/p/%E5%9C%B0%E6%AF%AF/</link>
         <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://raythecrack.github.io/p/%E5%9C%B0%E6%AF%AF/</guid>
+        <guid>http://localhost:1313/p/%E5%9C%B0%E6%AF%AF/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;在 $n\times n$ 的格子上有 $m$ 个地毯。&lt;/p&gt;
 &lt;p&gt;给出这些地毯的信息，问每个点被多少个地毯覆盖。&lt;/p&gt;
@@ -25070,10 +25070,10 @@ $$&lt;p&gt;
         </item>
         <item>
         <title>聪明的质检员</title>
-        <link>https://raythecrack.github.io/p/%E8%81%AA%E6%98%8E%E7%9A%84%E8%B4%A8%E6%A3%80%E5%91%98/</link>
+        <link>http://localhost:1313/p/%E8%81%AA%E6%98%8E%E7%9A%84%E8%B4%A8%E6%A3%80%E5%91%98/</link>
         <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://raythecrack.github.io/p/%E8%81%AA%E6%98%8E%E7%9A%84%E8%B4%A8%E6%A3%80%E5%91%98/</guid>
+        <guid>http://localhost:1313/p/%E8%81%AA%E6%98%8E%E7%9A%84%E8%B4%A8%E6%A3%80%E5%91%98/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;&lt;code&gt;小T&lt;/code&gt; 是一名质量监督员，最近负责检验一批矿产的质量。这批矿产共有 $n$ 个矿石，从 $1$ 到 $n$ 逐一编号，每个矿石都有自己的重量 $w_i$ 以及价值 $v_i$ 。检验矿产的流程是：&lt;/p&gt;
 &lt;ol&gt;
@@ -25289,10 +25289,10 @@ $$&lt;p&gt;上式的意思是在[l,r]区间内所有满足[w$_{i}\ge$W]的个数
         </item>
         <item>
         <title>Borrow Classroom</title>
-        <link>https://raythecrack.github.io/p/borrow-classroom/</link>
+        <link>http://localhost:1313/p/borrow-classroom/</link>
         <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://raythecrack.github.io/p/borrow-classroom/</guid>
+        <guid>http://localhost:1313/p/borrow-classroom/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;在大学期间，经常需要租借教室。大到院系举办活动，小到学习小组自习讨论，都需要向学校申请借教室。教室的大小功能不同，借教室人的身份不同，借教室的手续也不一样。&lt;/p&gt;
 &lt;p&gt;面对海量租借教室的信息，我们自然希望编程解决这个问题。&lt;/p&gt;
@@ -25501,10 +25501,10 @@ $$&lt;p&gt;上式的意思是在[l,r]区间内所有满足[w$_{i}\ge$W]的个数
         </item>
         <item>
         <title>Coming of Age Celebration</title>
-        <link>https://raythecrack.github.io/p/coming-of-age-celebration/</link>
+        <link>http://localhost:1313/p/coming-of-age-celebration/</link>
         <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://raythecrack.github.io/p/coming-of-age-celebration/</guid>
+        <guid>http://localhost:1313/p/coming-of-age-celebration/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;On a certain planet, there are $N$ aliens, all of whom are minors.&lt;/p&gt;
 &lt;p&gt;The $i$-th alien currently has $A_i$ stones, and will become an adult exactly $i$ years later.&lt;/p&gt;

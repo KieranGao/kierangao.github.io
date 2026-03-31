@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Shortest Paths on OxyTheCrack</title>
-        <link>https://raythecrack.github.io/categories/shortest-paths/</link>
+        <link>http://localhost:1313/categories/shortest-paths/</link>
         <description>Recent content in Shortest Paths on OxyTheCrack</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Gao &#34;KieRaN&#34; Ziyuan</copyright>
-        <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://raythecrack.github.io/categories/shortest-paths/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/shortest-paths/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Templates Collection</title>
-        <link>https://raythecrack.github.io/p/templates-collection/</link>
+        <link>http://localhost:1313/p/templates-collection/</link>
         <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
         
-        <guid>https://raythecrack.github.io/p/templates-collection/</guid>
+        <guid>http://localhost:1313/p/templates-collection/</guid>
         <description>&lt;hr&gt;
 $$
 -=Templates-Collection=- \\
@@ -23404,10 +23404,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Poor Trip</title>
-        <link>https://raythecrack.github.io/p/poor-trip/</link>
+        <link>http://localhost:1313/p/poor-trip/</link>
         <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://raythecrack.github.io/p/poor-trip/</guid>
+        <guid>http://localhost:1313/p/poor-trip/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;穷游中很重要的步骤是减少每晚的住宿费用。因此，想穷游的人到了北京、上海等大城市，往往就开始头疼了……&lt;/p&gt;
 &lt;p&gt;假设你作为一个穷游者，正准备从 &lt;em&gt;S&lt;/em&gt; 城出发到 &lt;em&gt;T&lt;/em&gt; 城，并且在中间经过的每个城市都停留一晚，体验城市的风土人情。但由于上面说到的因素，你自然不希望你的住宿费用太高，因此你希望规划一条路径，使得你停留的所有城市中的最贵的城市的住宿费用尽可能少。如果这样的路径不唯一，则选择路径中除到达最贵城市外总耗费时长最少的一条。&lt;/p&gt;
@@ -23550,10 +23550,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Shortest Path Graph</title>
-        <link>https://raythecrack.github.io/p/shortest-path-graph/</link>
+        <link>http://localhost:1313/p/shortest-path-graph/</link>
         <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://raythecrack.github.io/p/shortest-path-graph/</guid>
+        <guid>http://localhost:1313/p/shortest-path-graph/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;坎格鲁斯普雷最近学了最短路有关的算法，于是他给袋鼠将军出了这样一个问题： 给定一张有 $n$ 个节点的图，图中初始没有任何边。然后给你 $m$ 条有权值的没有被指定连接的节点的（你可以任意决定它所连接的节点）无向边，你需要将这 $m$ 条无向边&lt;strong&gt;全部加进图内&lt;/strong&gt;（每条边只能被使用一次），不允许出现自环（但允许出现重边），使得 1 号节点到其他所有节点的最短路恰好为一个给定的数组 $dis$。 袋鼠将军显然并不是图论高手，他并不会这道问题，于是他求助于你。当然，袋鼠将军也不是一个贪心的人，你并不需要构造问题的解决方案，&lt;strong&gt;你只需要判断问题是否有解即可&lt;/strong&gt;。&lt;/p&gt;
 &lt;h3 id=&#34;input&#34;&gt;Input
@@ -23724,10 +23724,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Sea Route</title>
-        <link>https://raythecrack.github.io/p/sea-route/</link>
+        <link>http://localhost:1313/p/sea-route/</link>
         <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://raythecrack.github.io/p/sea-route/</guid>
+        <guid>http://localhost:1313/p/sea-route/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;染染船长，扬帆起航！&lt;/p&gt;
 &lt;p&gt;在一系列准备工作做完后，染染的船终于出发了。&lt;/p&gt;
@@ -23954,10 +23954,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Flight</title>
-        <link>https://raythecrack.github.io/p/flight/</link>
+        <link>http://localhost:1313/p/flight/</link>
         <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://raythecrack.github.io/p/flight/</guid>
+        <guid>http://localhost:1313/p/flight/</guid>
         <description>&lt;h3 id=&#34;problem-sources&#34;&gt;Problem Sources
 &lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://icpc.qlu.edu.cn/p/P2479&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;QLUOJ-P2479&lt;/a&gt;&lt;/p&gt;
@@ -24114,10 +24114,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Flip Edge</title>
-        <link>https://raythecrack.github.io/p/flip-edge/</link>
+        <link>http://localhost:1313/p/flip-edge/</link>
         <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://raythecrack.github.io/p/flip-edge/</guid>
+        <guid>http://localhost:1313/p/flip-edge/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;You are given a directed graph with $N$ vertices and $M$ edges. The $i$-th edge $(1 \leq i \leq M)$ is a directed edge from vertex $u _ i$ to vertex $v _ i$.&lt;/p&gt;
 &lt;p&gt;Initially, you are at vertex $1$. You want to repeat the following operations until you reach vertex $N$:&lt;/p&gt;
@@ -24350,10 +24350,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Flight Route</title>
-        <link>https://raythecrack.github.io/p/flight-route/</link>
+        <link>http://localhost:1313/p/flight-route/</link>
         <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://raythecrack.github.io/p/flight-route/</guid>
+        <guid>http://localhost:1313/p/flight-route/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;Alice 和 Bob 现在要乘飞机旅行，他们选择了一家相对便宜的航空公司。该航空公司一共在 $n$ 个城市设有业务，设这些城市分别标记为 $0$ 到 $n-1$，一共有 $m$ 种航线，每种航线连接两个城市，并且航线有一定的价格。&lt;/p&gt;
 &lt;p&gt;Alice 和 Bob 现在要从一个城市沿着航线到达另一个城市，途中可以进行转机。航空公司对他们这次旅行也推出优惠，他们可以免费在最多 $k$ 种航线上搭乘飞机。那么 Alice 和 Bob 这次出行最少花费多少？&lt;/p&gt;
@@ -24652,10 +24652,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Bessie Come Home</title>
-        <link>https://raythecrack.github.io/p/bessie-come-home/</link>
+        <link>http://localhost:1313/p/bessie-come-home/</link>
         <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://raythecrack.github.io/p/bessie-come-home/</guid>
+        <guid>http://localhost:1313/p/bessie-come-home/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;现在是晚餐时间，而母牛们在外面分散的牧场中。&lt;/p&gt;
 &lt;p&gt;Farmer John 按响了电铃，所以她们开始向谷仓走去。 你的工作是要指出哪只母牛会最先到达谷仓（在给出的测试数据中，总会&lt;strong&gt;有且只有&lt;/strong&gt;一只最快的母牛）。在挤奶的时候（晚餐前），每只母牛都在她自己的牧场上，一些牧场上可能没有母牛。&lt;/p&gt;

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tutorial on OxyTheCrack</title>
-        <link>https://raythecrack.github.io/categories/tutorial/</link>
+        <link>http://localhost:1313/categories/tutorial/</link>
         <description>Recent content in Tutorial on OxyTheCrack</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Gao &#34;KieRaN&#34; Ziyuan</copyright>
-        <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://raythecrack.github.io/categories/tutorial/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/tutorial/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Templates Collection</title>
-        <link>https://raythecrack.github.io/p/templates-collection/</link>
+        <link>http://localhost:1313/p/templates-collection/</link>
         <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
         
-        <guid>https://raythecrack.github.io/p/templates-collection/</guid>
+        <guid>http://localhost:1313/p/templates-collection/</guid>
         <description>&lt;hr&gt;
 $$
 -=Templates-Collection=- \\
@@ -23404,10 +23404,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Make it Equal</title>
-        <link>https://raythecrack.github.io/p/make-it-equal/</link>
+        <link>http://localhost:1313/p/make-it-equal/</link>
         <pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://raythecrack.github.io/p/make-it-equal/</guid>
+        <guid>http://localhost:1313/p/make-it-equal/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;Given two &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Multiset&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;multisets&lt;/a&gt; $S$ and $T$ of size $n$ and a positive integer $k$, you may perform the following operations any number (including zero) of times on $S$:&lt;/p&gt;
@@ -23496,10 +23496,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Sum Of LDS</title>
-        <link>https://raythecrack.github.io/p/sum-of-lds/</link>
+        <link>http://localhost:1313/p/sum-of-lds/</link>
         <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://raythecrack.github.io/p/sum-of-lds/</guid>
+        <guid>http://localhost:1313/p/sum-of-lds/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;给定一个排列 $ ^{\text{∗}} $ $ p_1, \ldots, p_n $，满足对于所有 $ 1 \leq i \leq n-2 $ 都有 $ \max(p_i, p_{i+1}) &amp;gt; p_{i+2} $。&lt;/p&gt;
 &lt;p&gt;计算所有子数组 $ [p_l, p_{l+1}, \ldots, p_r] $（其中 $ 1 \leq l \leq r \leq n $）的最长递减子序列 $ ^{\text{†}} $ 长度的总和。&lt;/p&gt;
@@ -23567,10 +23567,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>WorkPlan</title>
-        <link>https://raythecrack.github.io/p/workplan/</link>
+        <link>http://localhost:1313/p/workplan/</link>
         <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://raythecrack.github.io/p/workplan/</guid>
+        <guid>http://localhost:1313/p/workplan/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;小 K 有 &lt;em&gt;N&lt;/em&gt; 项工作等待完成，第 &lt;em&gt;i&lt;/em&gt; 项工作需要花 $t_{i}$ 单位时间，必须在 $d_{i}$ 时刻或之前完成，报酬为 $p_{i}$。假设小 K 工作时刻从 0 开始，且同一时刻只能做一项工作、工作一旦开始则不可中断或切换至其他工作，请你帮小 K 规划一下如何选择合适的工作，使小 K 可以获得最多的报酬。&lt;/p&gt;
 &lt;h3 id=&#34;input&#34;&gt;Input
@@ -23665,10 +23665,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Classic Greedy Collections</title>
-        <link>https://raythecrack.github.io/p/classic-greedy-collections/</link>
+        <link>http://localhost:1313/p/classic-greedy-collections/</link>
         <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://raythecrack.github.io/p/classic-greedy-collections/</guid>
+        <guid>http://localhost:1313/p/classic-greedy-collections/</guid>
         <description>&lt;h3 id=&#34;problem1&#34;&gt;Problem#1
 &lt;/h3&gt;&lt;p&gt;这里有 &lt;code&gt;n&lt;/code&gt; 门不同的在线课程，按从 &lt;code&gt;1&lt;/code&gt; 到 &lt;code&gt;n&lt;/code&gt; 编号。给你一个数组 &lt;code&gt;courses&lt;/code&gt; ，其中 &lt;code&gt;courses[i] = [durationi, lastDayi]&lt;/code&gt; 表示第 &lt;code&gt;i&lt;/code&gt; 门课将会 &lt;strong&gt;持续&lt;/strong&gt; 上 &lt;code&gt;durationi&lt;/code&gt; 天课，并且必须在不晚于 &lt;code&gt;lastDayi&lt;/code&gt; 的时候完成。&lt;/p&gt;
 &lt;p&gt;你的学期从第 &lt;code&gt;1&lt;/code&gt; 天开始。且不能同时修读两门及两门以上的课程。&lt;/p&gt;
@@ -24089,10 +24089,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>DP PROGRESS JOURNEY</title>
-        <link>https://raythecrack.github.io/p/dp-progress-journey/</link>
+        <link>http://localhost:1313/p/dp-progress-journey/</link>
         <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://raythecrack.github.io/p/dp-progress-journey/</guid>
+        <guid>http://localhost:1313/p/dp-progress-journey/</guid>
         <description>&lt;h3 id=&#34;有严格位置依赖的二维动态规划的一维空间优化&#34;&gt;有严格位置依赖的二维动态规划的一维空间优化
 &lt;/h3&gt;&lt;p&gt;我们以最长公共子序列的空间优化为例：&lt;/p&gt;
 &lt;p&gt;其位置依赖关系为：左上&lt;code&gt;dp[i-1][j-1]&lt;/code&gt; , 上&lt;code&gt;dp[i-1][j]&lt;/code&gt; , 左&lt;code&gt;dp[i][j-1]&lt;/code&gt;&lt;/p&gt;

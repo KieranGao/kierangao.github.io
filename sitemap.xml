@@ -2,333 +2,333 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://raythecrack.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2026-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/categories/binary-search/</loc>
+    <loc>http://localhost:1313/categories/binary-search/</loc>
     <lastmod>2026-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/categories/bitmasks/</loc>
+    <loc>http://localhost:1313/categories/bitmasks/</loc>
     <lastmod>2026-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/categories/breath-first-search/</loc>
+    <loc>http://localhost:1313/categories/breath-first-search/</loc>
     <lastmod>2026-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/categories/data-structure/</loc>
+    <loc>http://localhost:1313/categories/data-structure/</loc>
     <lastmod>2026-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/categories/depth-first-search/</loc>
+    <loc>http://localhost:1313/categories/depth-first-search/</loc>
     <lastmod>2026-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/categories/dp/</loc>
+    <loc>http://localhost:1313/categories/dp/</loc>
     <lastmod>2026-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/categories/graphs/</loc>
+    <loc>http://localhost:1313/categories/graphs/</loc>
     <lastmod>2026-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/categories/greedy/</loc>
+    <loc>http://localhost:1313/categories/greedy/</loc>
     <lastmod>2026-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/categories/implementation/</loc>
+    <loc>http://localhost:1313/categories/implementation/</loc>
     <lastmod>2026-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/categories/math/</loc>
+    <loc>http://localhost:1313/categories/math/</loc>
     <lastmod>2026-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2026-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/categories/prefix-diff-suffix/</loc>
+    <loc>http://localhost:1313/categories/prefix-diff-suffix/</loc>
     <lastmod>2026-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/categories/shortest-paths/</loc>
+    <loc>http://localhost:1313/categories/shortest-paths/</loc>
     <lastmod>2026-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/categories/stl/</loc>
+    <loc>http://localhost:1313/categories/stl/</loc>
     <lastmod>2026-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/categories/strings/</loc>
+    <loc>http://localhost:1313/categories/strings/</loc>
     <lastmod>2026-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2026-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/templates-collection/</loc>
+    <loc>http://localhost:1313/p/templates-collection/</loc>
     <lastmod>2026-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/categories/tutorial/</loc>
+    <loc>http://localhost:1313/categories/tutorial/</loc>
     <lastmod>2026-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/categories/two-pointer/</loc>
+    <loc>http://localhost:1313/categories/two-pointer/</loc>
     <lastmod>2026-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/make-the-team/</loc>
+    <loc>http://localhost:1313/p/make-the-team/</loc>
     <lastmod>2026-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/clearance/</loc>
+    <loc>http://localhost:1313/p/clearance/</loc>
     <lastmod>2025-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/poor-trip/</loc>
+    <loc>http://localhost:1313/p/poor-trip/</loc>
     <lastmod>2025-08-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/ex-capoo-stack/</loc>
+    <loc>http://localhost:1313/p/ex-capoo-stack/</loc>
     <lastmod>2025-08-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/shortest-path-graph/</loc>
+    <loc>http://localhost:1313/p/shortest-path-graph/</loc>
     <lastmod>2025-08-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/last-chance-threads-of-despair/</loc>
+    <loc>http://localhost:1313/p/last-chance-threads-of-despair/</loc>
     <lastmod>2025-08-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/make-it-equal/</loc>
+    <loc>http://localhost:1313/p/make-it-equal/</loc>
     <lastmod>2025-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/sum-of-lds/</loc>
+    <loc>http://localhost:1313/p/sum-of-lds/</loc>
     <lastmod>2025-08-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/trapezium/</loc>
+    <loc>http://localhost:1313/p/trapezium/</loc>
     <lastmod>2025-08-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/good-partitions/</loc>
+    <loc>http://localhost:1313/p/good-partitions/</loc>
     <lastmod>2025-07-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/another-day-of-sun/</loc>
+    <loc>http://localhost:1313/p/another-day-of-sun/</loc>
     <lastmod>2025-07-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/math-problem-progression/</loc>
+    <loc>http://localhost:1313/p/math-problem-progression/</loc>
     <lastmod>2025-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/serval-and-kaitenzushi-buffet/</loc>
+    <loc>http://localhost:1313/p/serval-and-kaitenzushi-buffet/</loc>
     <lastmod>2025-07-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/palindromic-in-both-bases/</loc>
+    <loc>http://localhost:1313/p/palindromic-in-both-bases/</loc>
     <lastmod>2025-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/make-2-regular-graph/</loc>
+    <loc>http://localhost:1313/p/make-2-regular-graph/</loc>
     <lastmod>2025-07-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/pair-number-mystery/</loc>
+    <loc>http://localhost:1313/p/pair-number-mystery/</loc>
     <lastmod>2025-07-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/squidgraph/</loc>
+    <loc>http://localhost:1313/p/squidgraph/</loc>
     <lastmod>2025-07-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/workplan/</loc>
+    <loc>http://localhost:1313/p/workplan/</loc>
     <lastmod>2025-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/make-it-beauty/</loc>
+    <loc>http://localhost:1313/p/make-it-beauty/</loc>
     <lastmod>2025-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/ant-gathering/</loc>
+    <loc>http://localhost:1313/p/ant-gathering/</loc>
     <lastmod>2025-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/minimum-or-path/</loc>
+    <loc>http://localhost:1313/p/minimum-or-path/</loc>
     <lastmod>2025-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/lowbit/</loc>
+    <loc>http://localhost:1313/p/lowbit/</loc>
     <lastmod>2025-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/great-cow-gathering-g/</loc>
+    <loc>http://localhost:1313/p/great-cow-gathering-g/</loc>
     <lastmod>2025-05-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/tree-problem/</loc>
+    <loc>http://localhost:1313/p/tree-problem/</loc>
     <lastmod>2025-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/random-stack/</loc>
+    <loc>http://localhost:1313/p/random-stack/</loc>
     <lastmod>2025-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/light-switch/</loc>
+    <loc>http://localhost:1313/p/light-switch/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/efficient-algorithm/</loc>
+    <loc>http://localhost:1313/p/efficient-algorithm/</loc>
     <lastmod>2025-04-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/boneca-ambalabu/</loc>
+    <loc>http://localhost:1313/p/boneca-ambalabu/</loc>
     <lastmod>2025-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/min-max-mex/</loc>
+    <loc>http://localhost:1313/p/min-max-mex/</loc>
     <lastmod>2025-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/%E4%B8%8A%E5%B8%9D%E9%80%A0%E9%A2%98%E7%9A%84%E4%B8%83%E5%88%86%E9%92%9F-2-/-%E8%8A%B1%E7%A5%9E%E6%B8%B8%E5%8E%86%E5%90%84%E5%9B%BD/</loc>
+    <loc>http://localhost:1313/p/%E4%B8%8A%E5%B8%9D%E9%80%A0%E9%A2%98%E7%9A%84%E4%B8%83%E5%88%86%E9%92%9F-2-/-%E8%8A%B1%E7%A5%9E%E6%B8%B8%E5%8E%86%E5%90%84%E5%9B%BD/</loc>
     <lastmod>2025-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/vases-and-flowers/</loc>
+    <loc>http://localhost:1313/p/vases-and-flowers/</loc>
     <lastmod>2025-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/sea-route/</loc>
+    <loc>http://localhost:1313/p/sea-route/</loc>
     <lastmod>2025-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/fast-and-fat/</loc>
+    <loc>http://localhost:1313/p/fast-and-fat/</loc>
     <lastmod>2025-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/flight/</loc>
+    <loc>http://localhost:1313/p/flight/</loc>
     <lastmod>2025-03-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/%E5%B0%81%E9%94%81%E9%98%B3%E5%85%89%E5%A4%A7%E5%AD%A6/</loc>
+    <loc>http://localhost:1313/p/%E5%B0%81%E9%94%81%E9%98%B3%E5%85%89%E5%A4%A7%E5%AD%A6/</loc>
     <lastmod>2025-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/painting-galary/</loc>
+    <loc>http://localhost:1313/p/painting-galary/</loc>
     <lastmod>2025-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/copy-books/</loc>
+    <loc>http://localhost:1313/p/copy-books/</loc>
     <lastmod>2025-03-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/cutropes/</loc>
+    <loc>http://localhost:1313/p/cutropes/</loc>
     <lastmod>2025-03-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/9-divisors/</loc>
+    <loc>http://localhost:1313/p/9-divisors/</loc>
     <lastmod>2025-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/diversity/</loc>
+    <loc>http://localhost:1313/p/diversity/</loc>
     <lastmod>2025-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/humidifier-3/</loc>
+    <loc>http://localhost:1313/p/humidifier-3/</loc>
     <lastmod>2025-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/flip-edge/</loc>
+    <loc>http://localhost:1313/p/flip-edge/</loc>
     <lastmod>2025-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/editdistancelevenshtein-distance/</loc>
+    <loc>http://localhost:1313/p/editdistancelevenshtein-distance/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/k%E5%80%8D%E5%8C%BA%E9%97%B4/</loc>
+    <loc>http://localhost:1313/p/k%E5%80%8D%E5%8C%BA%E9%97%B4/</loc>
     <lastmod>2025-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/weight-measure/</loc>
+    <loc>http://localhost:1313/p/weight-measure/</loc>
     <lastmod>2025-02-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/a-order/</loc>
+    <loc>http://localhost:1313/p/a-order/</loc>
     <lastmod>2025-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/max-sub-tree-sum/</loc>
+    <loc>http://localhost:1313/p/max-sub-tree-sum/</loc>
     <lastmod>2025-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/mystery-of-the-path/</loc>
+    <loc>http://localhost:1313/p/mystery-of-the-path/</loc>
     <lastmod>2025-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/addbrackets/</loc>
+    <loc>http://localhost:1313/p/addbrackets/</loc>
     <lastmod>2025-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/logs/</loc>
+    <loc>http://localhost:1313/p/logs/</loc>
     <lastmod>2025-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/max-food-chains-count/</loc>
+    <loc>http://localhost:1313/p/max-food-chains-count/</loc>
     <lastmod>2025-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/divide-cake/</loc>
+    <loc>http://localhost:1313/p/divide-cake/</loc>
     <lastmod>2025-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/%E6%98%9F%E7%90%83%E5%A4%A7%E6%88%98/</loc>
+    <loc>http://localhost:1313/p/%E6%98%9F%E7%90%83%E5%A4%A7%E6%88%98/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/beautiful-sequence/</loc>
+    <loc>http://localhost:1313/p/beautiful-sequence/</loc>
     <lastmod>2025-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/classic-greedy-collections/</loc>
+    <loc>http://localhost:1313/p/classic-greedy-collections/</loc>
     <lastmod>2025-02-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/variety-is-discouraged/</loc>
+    <loc>http://localhost:1313/p/variety-is-discouraged/</loc>
     <lastmod>2025-02-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/flight-route/</loc>
+    <loc>http://localhost:1313/p/flight-route/</loc>
     <lastmod>2025-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/king-bins-budget-scheme/</loc>
+    <loc>http://localhost:1313/p/king-bins-budget-scheme/</loc>
     <lastmod>2025-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/crystal-combination/</loc>
+    <loc>http://localhost:1313/p/crystal-combination/</loc>
     <lastmod>2025-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/longest-bracket-matching/</loc>
+    <loc>http://localhost:1313/p/longest-bracket-matching/</loc>
     <lastmod>2025-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/chicks-arrangement-structure-checker/</loc>
+    <loc>http://localhost:1313/p/chicks-arrangement-structure-checker/</loc>
     <lastmod>2025-02-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/%E5%8F%98%E9%B8%A1%E5%99%A8/</loc>
+    <loc>http://localhost:1313/p/%E5%8F%98%E9%B8%A1%E5%99%A8/</loc>
     <lastmod>2025-02-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/flowerpot-s/</loc>
+    <loc>http://localhost:1313/p/flowerpot-s/</loc>
     <lastmod>2025-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/gcd/</loc>
+    <loc>http://localhost:1313/p/gcd/</loc>
     <lastmod>2025-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/guard-of-honors/</loc>
+    <loc>http://localhost:1313/p/guard-of-honors/</loc>
     <lastmod>2025-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/gcd-sum/</loc>
+    <loc>http://localhost:1313/p/gcd-sum/</loc>
     <lastmod>2025-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/minimum-covering-substrings/</loc>
+    <loc>http://localhost:1313/p/minimum-covering-substrings/</loc>
     <lastmod>2025-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/bessie-come-home/</loc>
+    <loc>http://localhost:1313/p/bessie-come-home/</loc>
     <lastmod>2025-02-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/hhs-necklace/</loc>
+    <loc>http://localhost:1313/p/hhs-necklace/</loc>
     <lastmod>2025-02-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/%E5%8F%AF%E4%BB%A5%E5%88%86%E5%BC%80%E5%90%97/</loc>
+    <loc>http://localhost:1313/p/%E5%8F%AF%E4%BB%A5%E5%88%86%E5%BC%80%E5%90%97/</loc>
     <lastmod>2025-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/lycanthropy/</loc>
+    <loc>http://localhost:1313/p/lycanthropy/</loc>
     <lastmod>2025-01-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/fish-catcher/</loc>
+    <loc>http://localhost:1313/p/fish-catcher/</loc>
     <lastmod>2025-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/%E5%9C%B0%E6%AF%AF/</loc>
+    <loc>http://localhost:1313/p/%E5%9C%B0%E6%AF%AF/</loc>
     <lastmod>2025-01-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/%E8%81%AA%E6%98%8E%E7%9A%84%E8%B4%A8%E6%A3%80%E5%91%98/</loc>
+    <loc>http://localhost:1313/p/%E8%81%AA%E6%98%8E%E7%9A%84%E8%B4%A8%E6%A3%80%E5%91%98/</loc>
     <lastmod>2025-01-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/borrow-classroom/</loc>
+    <loc>http://localhost:1313/p/borrow-classroom/</loc>
     <lastmod>2025-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/knapsack-2/</loc>
+    <loc>http://localhost:1313/p/knapsack-2/</loc>
     <lastmod>2025-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/settlement-of-guinea-pigs/</loc>
+    <loc>http://localhost:1313/p/settlement-of-guinea-pigs/</loc>
     <lastmod>2025-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/coming-of-age-celebration/</loc>
+    <loc>http://localhost:1313/p/coming-of-age-celebration/</loc>
     <lastmod>2025-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/mine-digger/</loc>
+    <loc>http://localhost:1313/p/mine-digger/</loc>
     <lastmod>2025-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/simultaneous-kagamimochi/</loc>
+    <loc>http://localhost:1313/p/simultaneous-kagamimochi/</loc>
     <lastmod>2025-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/various-kagamimochi/</loc>
+    <loc>http://localhost:1313/p/various-kagamimochi/</loc>
     <lastmod>2025-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/colored-papers/</loc>
+    <loc>http://localhost:1313/p/colored-papers/</loc>
     <lastmod>2025-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/dp-progress-journey/</loc>
+    <loc>http://localhost:1313/p/dp-progress-journey/</loc>
     <lastmod>2025-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/number-triangles/</loc>
+    <loc>http://localhost:1313/p/number-triangles/</loc>
     <lastmod>2025-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/snaky-walk/</loc>
+    <loc>http://localhost:1313/p/snaky-walk/</loc>
     <lastmod>2025-01-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/operate-k/</loc>
+    <loc>http://localhost:1313/p/operate-k/</loc>
     <lastmod>2024-12-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/p/slimes/</loc>
+    <loc>http://localhost:1313/p/slimes/</loc>
     <lastmod>2024-12-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/archives/</loc>
+    <loc>http://localhost:1313/archives/</loc>
     <lastmod>2024-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/page/</loc>
+    <loc>http://localhost:1313/page/</loc>
     <lastmod>2024-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://raythecrack.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

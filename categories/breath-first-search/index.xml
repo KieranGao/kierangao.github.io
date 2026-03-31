@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Breath First Search on OxyTheCrack</title>
-        <link>https://raythecrack.github.io/categories/breath-first-search/</link>
+        <link>http://localhost:1313/categories/breath-first-search/</link>
         <description>Recent content in Breath First Search on OxyTheCrack</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Gao &#34;KieRaN&#34; Ziyuan</copyright>
-        <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://raythecrack.github.io/categories/breath-first-search/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/breath-first-search/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Templates Collection</title>
-        <link>https://raythecrack.github.io/p/templates-collection/</link>
+        <link>http://localhost:1313/p/templates-collection/</link>
         <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
         
-        <guid>https://raythecrack.github.io/p/templates-collection/</guid>
+        <guid>http://localhost:1313/p/templates-collection/</guid>
         <description>&lt;hr&gt;
 $$
 -=Templates-Collection=- \\
@@ -23404,10 +23404,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Poor Trip</title>
-        <link>https://raythecrack.github.io/p/poor-trip/</link>
+        <link>http://localhost:1313/p/poor-trip/</link>
         <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://raythecrack.github.io/p/poor-trip/</guid>
+        <guid>http://localhost:1313/p/poor-trip/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;穷游中很重要的步骤是减少每晚的住宿费用。因此，想穷游的人到了北京、上海等大城市，往往就开始头疼了……&lt;/p&gt;
 &lt;p&gt;假设你作为一个穷游者，正准备从 &lt;em&gt;S&lt;/em&gt; 城出发到 &lt;em&gt;T&lt;/em&gt; 城，并且在中间经过的每个城市都停留一晚，体验城市的风土人情。但由于上面说到的因素，你自然不希望你的住宿费用太高，因此你希望规划一条路径，使得你停留的所有城市中的最贵的城市的住宿费用尽可能少。如果这样的路径不唯一，则选择路径中除到达最贵城市外总耗费时长最少的一条。&lt;/p&gt;
@@ -23550,10 +23550,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Humidifier 3</title>
-        <link>https://raythecrack.github.io/p/humidifier-3/</link>
+        <link>http://localhost:1313/p/humidifier-3/</link>
         <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://raythecrack.github.io/p/humidifier-3/</guid>
+        <guid>http://localhost:1313/p/humidifier-3/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;给你一个 $H$ 行 $W$ 列的矩阵，如果为 &lt;code&gt;#&lt;/code&gt; 代表为障碍物，&lt;code&gt;.&lt;/code&gt; 为空地， &lt;code&gt;H&lt;/code&gt; 为喷水器。&lt;br&gt;
 定义一个地方是湿的，当且仅当有从一个喷水器可以通过最多 $D$ 步移动（四联通）到达这个地方。&lt;br&gt;
@@ -23707,10 +23707,10 @@ $1\le D\le H\times W$&lt;/p&gt;
         </item>
         <item>
         <title>可以分开吗?</title>
-        <link>https://raythecrack.github.io/p/%E5%8F%AF%E4%BB%A5%E5%88%86%E5%BC%80%E5%90%97/</link>
+        <link>http://localhost:1313/p/%E5%8F%AF%E4%BB%A5%E5%88%86%E5%BC%80%E5%90%97/</link>
         <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://raythecrack.github.io/p/%E5%8F%AF%E4%BB%A5%E5%88%86%E5%BC%80%E5%90%97/</guid>
+        <guid>http://localhost:1313/p/%E5%8F%AF%E4%BB%A5%E5%88%86%E5%BC%80%E5%90%97/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;$\hspace{15pt}$牛可乐有 $n \times m$ 个砖块排布成 $n$ 行 $m$ 列的矩阵，我们使用 $(i,j)$ 表示矩阵中从上往下数第 $i$ 行和从左往右数第 $j$ 列的砖块。如下左图就是一个 $6$ 行 $6$ 列的矩阵。有的砖块能被敲碎，为了便于辨认，我们使用灰色绘制它们；有的砖块不能被敲碎，我们使用蓝色斜线绘制它们。如下右图所示，第 $3$ 行第 $2$ 列的砖块 $(3,2)$ 是灰色的，能被敲碎，使用一个叉代表其被敲碎了。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://uploadfiles.nowcoder.com/images/20250106/0_1736163274008/1BFEDF4DD26313049F2DB87C243658FC&#34;
@@ -24008,10 +24008,10 @@ $\hspace{15pt}$除此之外，保证至少存在一个“蓝色极大连通块�
         </item>
         <item>
         <title>Snaky Walk</title>
-        <link>https://raythecrack.github.io/p/snaky-walk/</link>
+        <link>http://localhost:1313/p/snaky-walk/</link>
         <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://raythecrack.github.io/p/snaky-walk/</guid>
+        <guid>http://localhost:1313/p/snaky-walk/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;You are given a grid with $H$ rows and $W$ columns. Let $(i,j)$ denote the cell at the $i$-th row from the top and the $j$-th column from the left.&lt;/p&gt;
 &lt;p&gt;Each cell is one of the following: a start cell, a goal cell, an empty cell, or an obstacle cell. This information is described by $H$ strings $S_1,S_2,\dots,S_H$, each of length $W$. Specifically, the cell $(i,j)$ is a start cell if the $j$-th character of $S_i$ is &lt;code&gt;S&lt;/code&gt;, a goal cell if it is &lt;code&gt;G&lt;/code&gt;, an empty cell if it is &lt;code&gt;.&lt;/code&gt;, and an obstacle cell if it is &lt;code&gt;#&lt;/code&gt;. It is guaranteed that there is exactly one start cell and exactly one goal cell.&lt;/p&gt;
@@ -24234,10 +24234,10 @@ $\hspace{15pt}$除此之外，保证至少存在一个“蓝色极大连通块�
         </item>
         <item>
         <title>Slimes</title>
-        <link>https://raythecrack.github.io/p/slimes/</link>
+        <link>http://localhost:1313/p/slimes/</link>
         <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://raythecrack.github.io/p/slimes/</guid>
+        <guid>http://localhost:1313/p/slimes/</guid>
         <description>&lt;h3 id=&#34;problem-statement&#34;&gt;Problem Statement
 &lt;/h3&gt;&lt;p&gt;There is a grid with $H$ horizontal rows and $W$ vertical columns. Let $(i, j)$ denote the cell at the $i$-th row $(1\leq i\leq H)$ from the top and $j$-th column $(1\leq j\leq W)$ from the left.&lt;/p&gt;
 &lt;p&gt;Initially, there is a slime with strength $S _ {i,j}$ in cell $(i,j)$, and Takahashi is the slime in the cell $(P,Q)$.&lt;/p&gt;
